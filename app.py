@@ -1,75 +1,98 @@
+from datetime import datetime
 import streamlit as st
-import threading
-from scraper.scrape import scrape_and_store_rss, rss_urls
-from database.crud import create_tables, fetch_news
-from datetime import datetime, timedelta
-import time
+import json
+import os
+from datetime import datetime
 
-# Streamlit cache for fetched news with a TTL of 30 minutes
-@st.cache_data(ttl=1800)
-def cached_fetch_news(source, start_date, end_date):
-    return fetch_news(source, start_date, end_date)
+# Directory where JSON files are stored
+JSON_DIR = "rss_feeds_data"
 
-# Function to run the scraper periodically (every X hours)
-def start_scraping():
-    while True:
-        scrape_and_store_rss()  # Scrape and store the latest news
-        time.sleep(3600 * 2)  # Scrape every 2 hours
+# Load JSON data for a given category
+@st.cache_data
+def load_json_data(category):
+    file_path = os.path.join(JSON_DIR, f"{category.lower()}.json")
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as file:
+            return json.load(file)
+    return []
 
-# Start scraper in a separate thread (daemon=True ensures it runs in the background)
-scraper_thread = threading.Thread(target=start_scraping, daemon=True)
-scraper_thread.start()
+# Filter the data by source, date, and category
+def filter_data(data, source=None, start_date=None, end_date=None):
+    filtered_data = []
 
-# Initialize the database and tables
-create_tables()
+    for item in data:
+        # Filter by source
+        if source and item['source'] != source:
+            continue
 
-# Streamlit Application
-st.title("Live RSS News Feed")
+        # Filter by date range
+        published_date_str = item.get('published', item.get('scraped_at'))
+        try:
+            published_date = datetime.fromisoformat(published_date_str)
+        except ValueError:
+            published_date = None
 
-# Store selected source and date range in session state to avoid recomputation
-if 'selected_source' not in st.session_state:
-    st.session_state.selected_source = st.selectbox('Select News Channel', list(rss_urls.keys()))
-else:
-    st.selectbox('Select News Channel', list(rss_urls.keys()), index=list(rss_urls.keys()).index(st.session_state.selected_source))
+        # If published_date is timezone-aware, convert to naive (removing timezone info)
+        if published_date and published_date.tzinfo is not None:
+            published_date = published_date.replace(tzinfo=None)
 
-# Date range input from the user
-today = datetime.today()
-default_start_date = today - timedelta(days=7)
+        # Filter based on date range
+        if start_date and published_date and published_date < start_date:
+            continue
+        if end_date and published_date and published_date > end_date:
+            continue
 
-if 'start_date' not in st.session_state:
-    st.session_state.start_date = st.date_input("Start Date", value=default_start_date)
-else:
-    st.date_input("Start Date", value=st.session_state.start_date)
+        filtered_data.append(item)
 
-if 'end_date' not in st.session_state:
-    st.session_state.end_date = st.date_input("End Date", value=today)
-else:
-    st.date_input("End Date", value=st.session_state.end_date)
+    return filtered_data
 
-# Convert Streamlit date input to datetime objects
-start_date = datetime.combine(st.session_state.start_date, datetime.min.time())
-end_date = datetime.combine(st.session_state.end_date, datetime.min.time())
 
-# Pagination function to display only a subset of the news at a time
-def paginate_news(news_items, page_size=10):
-    total_pages = (len(news_items) + page_size - 1) // page_size
-    page = st.number_input("Page", min_value=1, max_value=total_pages, step=1, key="page_number")
-    start_idx = (page - 1) * page_size
-    end_idx = start_idx + page_size
-    return news_items[start_idx:end_idx]
+# List of available categories (You can hard-code or fetch from available JSON files)
+def get_available_categories():
+    return [filename.split('.')[0].capitalize() for filename in os.listdir(JSON_DIR) if filename.endswith('.json')]
 
-# Fetch and display news with a spinner for better UX
-with st.spinner('Fetching news...'):
-    news_items = cached_fetch_news(st.session_state.selected_source, start_date, end_date)
+# Main Streamlit app function
+def main():
+    st.title("RSS Feed Viewer")
 
-# Paginate and show the news
-if news_items:
-    paginated_news = paginate_news(news_items)
-    for news in paginated_news:
-        st.write(f"### {news[0]}")  # title
-        st.write(news[1])  # description
-        st.write(f"[Read more]({news[2]})")  # link
-        st.write(f"Published: {news[3]}")  # published_date
-        st.write("---")
-else:
-    st.write("No news available for this date range.")
+    # User input for Category
+    categories = get_available_categories()
+    category = st.selectbox("Select Category", categories)
+
+    # Load the data for the selected category
+    data = load_json_data(category)
+    
+    # Get unique sources from the data
+    sources = sorted(set(item['source'] for item in data))
+    
+    # User input for Source filter
+    source = st.selectbox("Select Source", ["All"] + sources)
+
+    # User input for Date range filter
+    start_date = st.date_input("Start Date", value=None)
+    end_date = st.date_input("End Date", value=None)
+
+    # Button to trigger the filtering
+    if st.button("Show News"):
+        # Convert date inputs to datetime objects
+        start_date_dt = datetime.combine(start_date, datetime.min.time()) if start_date else None
+        end_date_dt = datetime.combine(end_date, datetime.max.time()) if end_date else None
+
+        # Filter the data based on user input
+        filtered_data = filter_data(
+            data, 
+            source=None if source == "All" else source, 
+            start_date=start_date_dt, 
+            end_date=end_date_dt
+        )
+
+        # Display filtered data
+        st.write(f"Showing {len(filtered_data)} results")
+        for item in filtered_data:
+            st.subheader(item['title'])
+            st.write(f"Source: {item['source']}")
+            st.write(f"Published: {item.get('published', 'N/A')}")
+            st.write(f"[Read more]({item['link']})")
+
+if __name__ == "__main__":
+    main()
