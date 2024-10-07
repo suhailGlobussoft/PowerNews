@@ -2446,5 +2446,59 @@
         "category": "Science",
         "scraped_at": "2024-10-07T13:45:23.971500",
         "source": "Times of India"
+    },
+    {
+        "title": "Weather may delay launch of mission to study deflected asteroid",
+        "link": "https://timesofindia.indiatimes.com/science/weather-may-delay-launch-of-mission-to-study-deflected-asteroid/articleshow/114010904.cms",
+        "description": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/114010904.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Stormy weather might postpone the launch of Europe's Hera spacecraft, aimed at analyzing the aftermath of NASA's DART collision with the asteroid Dimorphos. Scheduled for Monday, the mission's objective is to gather crucial data on planetary defense. If postponed, a back-up launch is set for Tuesday. The launch window extends until October 27.",
+        "published": "2024-10-07T15:19:43+05:30",
+        "category": "Science",
+        "scraped_at": "2024-10-07T16:02:29.053309",
+        "source": "Times of India"
+    },
+    {
+        "title": "Nobel Prize in Physiology or Medicine: Who are Victor Ambros and Gary Ruvkun?",
+        "link": "https://economictimes.indiatimes.com/news/science/nobel-prize-for-physiology-or-medicine-who-are-victor-ambros-and-gary-ruvkun/articleshow/114010714.cms",
+        "description": "The 2024 Nobel Prize for Physiology or Medicine has been awarded to Victor Ambros and Gary Ruvkun for their discovery of microRNA and its role in post-transcriptional gene regulation. This groundbreaking work has revealed a new principle of gene regulation essential for multicellular organisms, including humans, with the human genome coding for over a thousand microRNAs.",
+        "published": "Mon, 07 Oct 2024 15:19:57 +0530",
+        "category": "Science",
+        "scraped_at": "2024-10-07T16:02:29.755239",
+        "source": "Economic Times"
+    },
+    {
+        "title": "Nobel Prize 2024 in Medicine goes to Victor Ambros and Gary Ruvkun for discovery of microRNA",
+        "link": "https://economictimes.indiatimes.com/news/science/nobel-prize-2024-medicine-or-physiology-victor-ambros-and-gary-ruvkun-for-work-in-microrna-and-its-role-in-post-transcriptional-gene-regulation/articleshow/114008710.cms",
+        "description": "Victor Ambros and Gary Ruvkun have been awarded the 2024 Nobel Prize for Physiology or Medicine for their discovery of microRNA and its role in post-transcriptional gene regulation. The prize follows the 2023 award to Katalin Karikó and Drew Weissman for groundbreaking mRNA vaccine research.",
+        "published": "Mon, 07 Oct 2024 15:04:33 +0530",
+        "category": "Science",
+        "scraped_at": "2024-10-07T16:02:29.755239",
+        "source": "Economic Times"
+    },
+    {
+        "title": "Asteroid may become new wonder-food for astronauts, claims new study",
+        "link": "https://economictimes.indiatimes.com/news/science/asteroid-may-become-new-wonder-food-for-astronauts-claims-new-study/articleshow/114006613.cms",
+        "description": "A study published in The International Journal of Astrobiology reveals a groundbreaking concept where astronauts could use asteroids to meet their nutritional needs. While the carbon from asteroids may be transformed into edible biomass, extensive testing is still required to ensure its safety. This new approach offers hope for addressing the challenge of food scarcity during long-duration space missions, though significant hurdles remain before it can be realized.",
+        "published": "Mon, 07 Oct 2024 14:47:17 +0530",
+        "category": "Science",
+        "scraped_at": "2024-10-07T16:02:29.755239",
+        "source": "Economic Times"
+    },
+    {
+        "title": "Hera to Launch in Florida on SpaceX Rocket: How to Watch",
+        "link": "https://www.nytimes.com/2024/10/07/science/hera-asteroid-launch-spacex.html",
+        "description": "The Hera spacecraft, expected to take flight Monday morning, is part of a broader effort to bolster humanity’s planetary defense readiness.",
+        "published": "Mon, 07 Oct 2024 10:00:07 +0000",
+        "category": "Science",
+        "scraped_at": "2024-10-07T16:02:29.839238",
+        "source": "The New York Times"
+    },
+    {
+        "title": "How Can I Cut PFAS ‘Forever Chemicals?’",
+        "link": "https://www.nytimes.com/2024/10/07/climate/how-to-reduce-pfas-forever-chemicals.html",
+        "description": "They’re almost everywhere. And they’re bad. But there are some things you can do to avoid them.",
+        "published": "Mon, 07 Oct 2024 09:00:36 +0000",
+        "category": "Science",
+        "scraped_at": "2024-10-07T16:02:29.839238",
+        "source": "The New York Times"
     }
 ]

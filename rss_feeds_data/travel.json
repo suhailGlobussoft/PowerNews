@@ -1420,5 +1420,14 @@
         "category": "Travel",
         "scraped_at": "2024-10-07T10:56:00.389292",
         "source": "CNBC"
+    },
+    {
+        "title": "Hop on the Bus for a Cheap Way to See Peru at Your Own Pace",
+        "link": "https://www.nytimes.com/2024/10/07/travel/peru-hop-bus-tour.html",
+        "description": "Most travelers fly between cities like Lima, Cuzco and Arequipa, but if you want to explore beaches, deserts and mountains at your own pace, try a hop-on, hop-off bus.",
+        "published": "Mon, 07 Oct 2024 09:01:04 +0000",
+        "category": "Travel",
+        "scraped_at": "2024-10-07T16:02:38.807573",
+        "source": "The New York Times"
     }
 ]
