@@ -2383,5 +2383,23 @@
         "category": "Finance",
         "scraped_at": "2024-10-06T21:42:35.493071",
         "source": "CNBC"
+    },
+    {
+        "title": "Regulator seen nudging insurance cos to list",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/regulator-seen-nudging-insurance-cos-to-list/articleshow/113992394.cms",
+        "description": "The Insurance Regulatory and Development Authority of India (Irdai) is encouraging insurance companies, especially those operating for over a decade, to go public. By engaging with senior executives, Irdai aims to enhance corporate governance and unlock greater value through public listings.",
+        "published": "Sun, 06 Oct 2024 23:34:16 +0530",
+        "category": "Finance",
+        "scraped_at": "2024-10-07T10:55:52.603114",
+        "source": "Economic Times"
+    },
+    {
+        "title": "AIFs, govt in talks over 'carry income' tax",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/aifs-govt-in-talks-over-carry-income-tax/articleshow/113992278.cms",
+        "description": "The Indian government seeks insights from the private equity and venture capital sector on global tax practices for fund managers' carried interest as it examines the imposition of GST on such earnings. A recent Supreme Court decision helps facilitate ongoing discussions about aligning with international tax norms.",
+        "published": "Sun, 06 Oct 2024 23:26:30 +0530",
+        "category": "Finance",
+        "scraped_at": "2024-10-07T10:55:52.603114",
+        "source": "Economic Times"
     }
 ]
