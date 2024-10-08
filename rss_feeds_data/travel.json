@@ -1429,5 +1429,23 @@
         "category": "Travel",
         "scraped_at": "2024-10-07T16:02:38.807573",
         "source": "The New York Times"
+    },
+    {
+        "title": "Looking For Gift Suggestions This Holiday Season? Ask T For Help.",
+        "link": "https://www.nytimes.com/2024/10/07/t-magazine/holiday-gift-suggestions-questions.html",
+        "description": "Send us a question about a picky person on your holiday gift list and we’ll respond to the most intriguing ones with suggestions.",
+        "published": "Mon, 07 Oct 2024 16:17:31 +0000",
+        "category": "Travel",
+        "scraped_at": "2024-10-08T11:22:19.466217",
+        "source": "The New York Times"
+    },
+    {
+        "title": "Chinese travelers trickle back to a Taiwanese island, mere miles from the mainland",
+        "link": "https://www.cnbc.com/2024/10/08/chinese-travelers-return-to-kinmen-a-taiwan-island-off-mainland-china.html",
+        "description": "Tourism has slowly started to resume on Kinmen, a remote Taiwanese island 1.8 miles from China that once thrived on visitors from the mainland.",
+        "published": "Mon, 07 Oct 2024 23:33:38 GMT",
+        "category": "Travel",
+        "scraped_at": "2024-10-08T11:22:20.085053",
+        "source": "CNBC"
     }
 ]
