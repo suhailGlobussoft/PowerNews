@@ -4750,5 +4750,2381 @@
         "category": "Technology",
         "scraped_at": "2024-10-08T11:21:46.819235",
         "source": "CNBC"
+    },
+    {
+        "title": "Indian women enter STEM fields in record numbers. But why do they vanish from academic positions?",
+        "link": "https://frontline.thehindu.com/science-and-technology/women-stem-maternity-leave-phd-gender-bias-workforce-diversity-toxic-workplace-academia/article68836952.ece",
+        "description": "While India boasts of a 40 per cent enrolment of women in STEM fields, they make up only 16 per cent of faculty positions. What’s pushing them out?",
+        "published": "Wed, 06 Nov 2024 21:10:18 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:28.963925",
+        "source": "The Hindu"
+    },
+    {
+        "title": "E-waste from AI computers could ‘escalate beyond control’: study",
+        "link": "https://frontline.thehindu.com/news/e-waste-ai-computers-artificial-intelligence-escalate-by-2030-environmental-damage/article68814329.ece",
+        "description": "Researchers predicting a 1,000-fold increase in such e-waste by 2030 have called for recycling strategies to reduce environmental impact.",
+        "published": "Thu, 31 Oct 2024 10:00:00 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:28.963925",
+        "source": "The Hindu"
+    },
+    {
+        "title": "A wild find on Covid’s origin; and Black Hole’s leftovers pack a punch",
+        "link": "https://frontline.thehindu.com/science-and-technology/science-notebook-huanan-market-as-source-of-covid-virus-black-hole-link-to-transient-xrays-from-outer-space/article68772026.ece",
+        "description": "Evidence was found of the virus in samples from the Wuhan wet market, and astronomers solve a mystery about the source of a type of X-rays from space.",
+        "published": "Tue, 29 Oct 2024 21:08:56 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:28.963925",
+        "source": "The Hindu"
+    },
+    {
+        "title": "Rohini Godbole (1952-2024): The physicist who refused to choose between science and justice",
+        "link": "https://frontline.thehindu.com/other/obituary/rohini-godbole-indian-physicist-gender-equality-iisc-bangalore-women-stem-particle-physics-2024/article68798941.ece",
+        "description": "She died as she lived—pursuing both particle physics and gender justice with equal passion at the Indian Institute of Science.",
+        "published": "Sat, 26 Oct 2024 08:57:58 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:28.963925",
+        "source": "The Hindu"
+    },
+    {
+        "title": "ChatGPT novels and CG Mona Lisas: The digital deluge of mediocre art threatens to drown out quality work",
+        "link": "https://frontline.thehindu.com/arts-and-culture/art/cultural-blurring-art-architecture-writing-film-social-media-mediocre-snapchat-whatsapp-chatgpt/article68778789.ece",
+        "description": "Is the “unmitigated glut” of instant art erasing our cultural memory? Or are we witnessing the death of the starving artist?",
+        "published": "Mon, 21 Oct 2024 19:16:32 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:28.963925",
+        "source": "The Hindu"
+    },
+    {
+        "title": "AI beds to remote ICUs: How startups are plugging India’s health gaps",
+        "link": "https://frontline.thehindu.com/news/india-health-tech-startups-infrastructure-gaps-ai-beds-remote-icus/article68779075.ece",
+        "description": "Health-tech firms are looking to use cutting-edge technologies to fill chronic, structural lacunae in the country’s healthcare delivery.",
+        "published": "Mon, 21 Oct 2024 18:27:12 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:28.963925",
+        "source": "The Hindu"
+    },
+    {
+        "title": "AI’s dark secret: It is rolling back progress on equality",
+        "link": "https://frontline.thehindu.com/news/artificial-intelligence-chatgpt-gender-bias-tech-discrimination-inequality-minority-groups/article68772305.ece",
+        "description": "AI systems all function the same way, by identifying patterns. The truth is that machine learning systems struggle with difference.",
+        "published": "Sat, 19 Oct 2024 19:28:58 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:28.963925",
+        "source": "The Hindu"
+    },
+    {
+        "title": "A shot of good news from Gaza; CERN’s big small find; and nature’s unexpected light show",
+        "link": "https://frontline.thehindu.com/science-and-technology/science-notebook-gaza-kids-oral-polio-vaccination-ultra-rare-kaon-decay-cern-thundercloud-radiation/article68727642.ece",
+        "description": "First round of polio vaccination completed in Gaza; CERN measures ultra-rare kaon decay; and thunderclouds can produce gamma-ray bursts.",
+        "published": "Sun, 13 Oct 2024 21:36:37 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:28.963925",
+        "source": "The Hindu"
+    },
+    {
+        "title": "‘The Dystopian Times’ by Appupen",
+        "link": "https://frontline.thehindu.com/society/marriages-in-india-artificial-intelligence-matrimony-sites-gender-roles/article68736232.ece",
+        "description": "",
+        "published": "Wed, 09 Oct 2024 16:37:40 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:28.963925",
+        "source": "The Hindu"
+    },
+    {
+        "title": "Nobel Prize in physics: AI pioneers Hopfield and Hinton win for machine learning foundations",
+        "link": "https://frontline.thehindu.com/news/nobel-prize-physics-artificial-intelligence-deep-learning-machine-learning/article68732295.ece",
+        "description": "Nobel Committee recognises 1980s work on neural networks and pattern recognition. Prize reaffirms AI’s growing impact on science and daily life.",
+        "published": "Tue, 08 Oct 2024 17:32:10 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:28.963925",
+        "source": "The Hindu"
+    },
+    {
+        "title": "Redmi K80 Pro Spotted on Geekbench With Snapdragon 8 Elite Chipset; Full Specifications Leak",
+        "link": "https://www.gadgets360.com/mobiles/news/redmi-k80-pro-specifications-leak-geekbench-weibo-7045079",
+        "description": "Redmi K80 series is the purported successor to the Redmi K70 lineup (pictured above)",
+        "published": "Mon, 18 Nov 2024 12:24:22 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Apple Evaluating Development of Its Own TV Set Alongside Upcoming Smart Home Devices: Mark Gurman",
+        "link": "https://www.gadgets360.com/tv/news/apple-tv-smart-home-device-plans-report-7045236",
+        "description": "The Apple TV box competes with other devices that run on Android TV OS and Fire OS",
+        "published": "Mon, 18 Nov 2024 12:06:21 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Apple’s AirTag 2 to Launch in 2025 With Better Chip, Privacy Improvements: Mark Gurman",
+        "link": "https://www.gadgets360.com/mobiles/news/apple-airtag-2-launch-2025-features-improvements-mark-gurman-power-on-newsletter-7044965",
+        "description": "Apple released the AirTag in April 2021",
+        "published": "Mon, 18 Nov 2024 11:51:11 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Oppo Reno 13 Series Launch Date Set for November 25; Tipped to Feature MediaTek Dimensity 8300 Chipset",
+        "link": "https://www.gadgets360.com/mobiles/news/oppo-reno-13-pro-series-launch-date-geekbench-listing-soc-expected-7044721",
+        "description": "Oppo Reno 13 is confirmed to come in a Butterfly Purple colourway",
+        "published": "Mon, 18 Nov 2024 10:49:35 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "iQOO Neo 10 Pro Confirmed Launch in China on November 29; Will Feature MediaTek Dimensity 9400 Chipset",
+        "link": "https://www.gadgets360.com/mobiles/news/iqoo-neo-10-pro-launch-date-china-processor-specifications-7044370",
+        "description": "iQOO Neo 10 series is confirmed to come in three colourways",
+        "published": "Mon, 18 Nov 2024 10:22:38 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Realme GT 7 Pro to Launch in India With a Smaller 5,800mAh Battery Compared to China Variant",
+        "link": "https://www.gadgets360.com/mobiles/news/realme-gt-7-pro-launch-in-india-battery-capacity-china-variant-7044159",
+        "description": "Realme GT 7 Pro is teased to come in Mars Design colourway",
+        "published": "Mon, 18 Nov 2024 08:42:29 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "NASA Partners with Microsoft For Earth Copilot AI to Simplify Access to Complex Earth Data",
+        "link": "https://www.gadgets360.com/science/news/nasa-ai-earth-copilot-makes-scientific-data-more-accessible-with-microsoft-7034889",
+        "description": "NASA & Microsoft unveil Earth Copilot AI for interpreting climate data.",
+        "published": "Sat, 16 Nov 2024 22:44:55 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Cosmic Survey Reveals Surge of Black Holes in Dwarf Galaxies",
+        "link": "https://www.gadgets360.com/science/news/cosmic-survey-triples-known-black-holes-in-dwarf-galaxies-reveals-thousands-of-new-middleweight-candidates-6981154",
+        "description": "Astronomers survey the cosmos with the DESI instrument at Arizona's Kitt Peak.",
+        "published": "Sat, 16 Nov 2024 22:42:08 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "New 3D Map of Local Hot Bubble Reveals Interstellar Tunnel to Superbubble",
+        "link": "https://www.gadgets360.com/science/news/new-3d-map-of-local-hot-bubble-reveals-interstellar-tunnel-to-superbubble-6981323",
+        "description": "A 3D model of the Milky Way's \"local bubble\" created using data from eROSITA.",
+        "published": "Sat, 16 Nov 2024 22:41:31 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Astrophotographer Captures Milky Way Over Easter Island's Moai During Eclipse",
+        "link": "https://www.gadgets360.com/science/news/astrophotographer-josh-dury-captures-milky-way-over-easter-islands-moai-statues-during-eclipse-6981260",
+        "description": "Aringa Ora O Te Tupuna” (The Living Face of the Ancestors)",
+        "published": "Sat, 16 Nov 2024 22:39:13 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Father and Daughter Decode Mysterious Signal From Space: What Does It Mean?",
+        "link": "https://www.gadgets360.com/science/news/father-and-daughter-decode-mysterious-signal-from-space-what-does-it-mean-7018213",
+        "description": "A father-daughter team solved a 2023 cosmic puzzle, revealing five amino acids.",
+        "published": "Sat, 16 Nov 2024 22:39:02 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Adharma Kadhaigal: Tamil Fantasy Thriller Now Streaming on Aha Tamil Platform",
+        "link": "https://www.gadgets360.com/entertainment/news/adharma-kadhaigal-streaming-release-date-on-aha-tamil-7027094",
+        "description": "The official trailer of Adharma Kadhaigal showcases a gripping narrative set in the fantasy",
+        "published": "Sat, 16 Nov 2024 21:46:05 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Greek Tomb Possibly Holds Alexander the Great's Tunic, New Study Suggests",
+        "link": "https://www.gadgets360.com/science/news/ancient-royal-tomb-may-hold-alexander-the-great-s-tunic-new-study-finds-6980497",
+        "description": "Many experts think this tomb belongs to Philip II, the father of Alexander the Great.",
+        "published": "Sat, 16 Nov 2024 12:00:11 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "New Child Fossil Teeth Reveal Why Humans Developed an Unusually Long Childhood",
+        "link": "https://www.gadgets360.com/science/news/new-child-fossil-teeth-reveal-why-humans-developed-an-unusually-long-childhood-7017986",
+        "description": "Extended childhood seen in humans may have evolved as a result of cultural transmission.",
+        "published": "Sat, 16 Nov 2024 00:22:01 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Parachute OTT Release Date: When and Where to Watch Tamil Drama Movie Online?",
+        "link": "https://www.gadgets360.com/science/news/parachute-ott-release-date-announced-7027294",
+        "description": "Parachute will be available for streaming exclusively on Disney+ Hotstar starting November 29, 2024.",
+        "published": "Sat, 16 Nov 2024 00:17:21 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Scientists Discover World's Largest Coral Discovered in Solomon Islands",
+        "link": "https://www.gadgets360.com/science/news/scientists-discover-worlds-largest-coral-discovered-in-solomon-islands-7025040",
+        "description": "The largest coral ever recorded was found by scientists in the southwest Pacific Ocean.",
+        "published": "Sat, 16 Nov 2024 00:10:37 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Study Finds Industrial Aerosols May Cause Local Snowfall by Freezing Clouds",
+        "link": "https://www.gadgets360.com/science/news/industrial-aerosols-trigger-local-snowfall-study-links-factories-to-weather-patterns-7025234",
+        "description": "Industries emit aerosols that affect cloud properties and climate.",
+        "published": "Sat, 16 Nov 2024 00:09:21 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Matka OTT Release Date: When and Where to Watch Varun Tej's Crime Drama Online",
+        "link": "https://www.gadgets360.com/entertainment/news/matka-ott-release-varun-tejs-gangster-drama-coming-to-amazon-prime-video-7027373",
+        "description": "The plot captures Vasu's evolution from a refugee to the \"King of Matka.",
+        "published": "Sat, 16 Nov 2024 00:07:52 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "New Global Policies to Cut Plastic Waste and Reduce Carbon Emissions by 2050",
+        "link": "https://www.gadgets360.com/science/news/four-policies-could-reduce-plastic-waste-by-90-percent-and-carbon-emissions-by-30-percent-by-2050-7025345",
+        "description": "A Science study shows four policies could cut plastic waste by 91% and greenhouse gases by a third.",
+        "published": "Fri, 15 Nov 2024 23:54:51 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "India and Other Developing Nations Demand for Fair Climate Finance Commitments at COP29 Summit",
+        "link": "https://www.gadgets360.com/science/news/india-and-other-developing-nations-demand-for-fair-climate-finance-commitments-at-cop29-summit-7025458",
+        "description": "A discussion on multi-lateral development banks at COP29 in Baku.",
+        "published": "Fri, 15 Nov 2024 23:50:46 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Cameron Diaz Makes Comeback with Netflix Spy Comedy 'Back in Action'",
+        "link": "https://www.gadgets360.com/entertainment/news/cameron-diaz-returns-to-acting-after-11-years-in-netflix-spy-comedy-back-in-action-7027457",
+        "description": "The film will be available exclusively on Netflix starting January 17, 2025",
+        "published": "Fri, 15 Nov 2024 23:47:20 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "COP29 Drafts New New Climate Finance Goal: Here's What You Need to Know",
+        "link": "https://www.gadgets360.com/science/news/cop29-drafts-new-new-climate-finance-goal-heres-what-you-need-to-know-7025602",
+        "description": "Attendees arrived for the COP29 U.N. Climate Summit in Baku, Azerbaijan, on November 14, 2024.",
+        "published": "Fri, 15 Nov 2024 23:44:53 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "NASA’s Hubble Reveals Impact of Milky Way’s Gravitational Force on Large Magellanic Cloud",
+        "link": "https://www.gadgets360.com/science/news/hubble-spots-aftermath-of-milky-way-s-interaction-with-large-magellanic-cloud-7025748",
+        "description": "The LMC moves through the Milky Way's halo, leaving a gas trail observed via Hubble.",
+        "published": "Fri, 15 Nov 2024 23:37:02 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Did Earth Once Freeze Completely? New Evidence Found in Colorado Rocks",
+        "link": "https://www.gadgets360.com/science/news/new-evidence-of-snowball-earth-found-in-colorado-rocks-pikes-peak-discovery-7025845",
+        "description": "Rocks can hold clues to history dating back hundreds of millions of years.",
+        "published": "Fri, 15 Nov 2024 23:17:34 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Blue Origin Assembles New Glenn Rocket for Upcoming Maiden Flight in November",
+        "link": "https://www.gadgets360.com/science/news/blue-origins-new-glenn-rocket-assembled-for-first-launch-in-november-7025969",
+        "description": "Blue Origin's New Glenn rocket stages are housed near Kennedy Space Center, Florida.",
+        "published": "Fri, 15 Nov 2024 23:11:52 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Could a Supernova Threaten Earth’s Survival? Here's What You Need to Know",
+        "link": "https://www.gadgets360.com/science/news/can-a-supernova-destroy-earth-what-you-need-to-know-about-stellar-explosions-7026091",
+        "description": "An illustration of a supernova destroying a nearby rocky planet",
+        "published": "Fri, 15 Nov 2024 23:10:09 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "China Set to Launch Tianzhou 8 Cargo Mission to Tiangong Space Station",
+        "link": "https://www.gadgets360.com/science/news/china-launches-tianzhou-8-cargo-mission-to-tiangong-space-station-on-november-15-7026254",
+        "description": "China rolled out its Tianzhou 8 cargo spacecraft with a Long March 7 rocket on Nov. 13, 2024.",
+        "published": "Fri, 15 Nov 2024 23:07:58 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Brother OTT Release Date Reportedly Revealed: Here's When This Tamil Comedy-Drama Film Might Stream Online",
+        "link": "https://www.gadgets360.com/entertainment/news/jayam-ravi-s-brother-to-stream-on-zee5-after-theatrical-run-ends-7026491",
+        "description": "Brother will stream exclusively on Zee5.",
+        "published": "Fri, 15 Nov 2024 23:05:29 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Half Love Half Arranged Season 2: Rom-Com Series Returns on Amazon MX Player",
+        "link": "https://www.gadgets360.com/entertainment/news/half-love-half-arranged-season-2-streaming-date-cast-plot-and-more-7026568",
+        "description": "Half Love Half Arranged season 2",
+        "published": "Fri, 15 Nov 2024 22:45:51 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Agni Teaser Out: Pratik Gandhi, Divyenndu Lead India’s First Firefighter Film",
+        "link": "https://www.gadgets360.com/entertainment/news/agni-teaser-out-pratik-gandhi-divyenndu-star-in-india-s-first-firefighter-film-7026645",
+        "description": "Prime Video India has released the teaser for Agni.",
+        "published": "Fri, 15 Nov 2024 22:43:22 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Secret OTT Release: Malayalam Thriller Starring Dhyan Sreenivasan to be Available on ManoramaMAX",
+        "link": "https://www.gadgets360.com/entertainment/news/secret-ott-release-date-watch-dhyan-sreenivasans-thriller-on-manoramamax-from-november-17-7026720",
+        "description": "Dhyan Sreenivasan-led Malayalam movie is all set to make its OTT debut",
+        "published": "Fri, 15 Nov 2024 22:40:37 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Vera Mari Office Season 2 OTT Release Date, Plot, Cast and More",
+        "link": "https://www.gadgets360.com/entertainment/news/vera-mari-office-season-2-ott-release-date-plot-cast-more-on-aha-7026859",
+        "description": "Heart-break ?moments alli pottrukaanga polaye",
+        "published": "Fri, 15 Nov 2024 22:32:38 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Nandhan Tamil Movie OTT Release Date on Aha: Sasikumar’s Latest Drama Streaming Soon",
+        "link": "https://www.gadgets360.com/entertainment/news/tamil-movie-ott-release-date-watch-sasikumar-s-drama-on-aha-7027013",
+        "description": "Nandhan will be available to stream on Aha Tamil.",
+        "published": "Fri, 15 Nov 2024 22:28:29 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Samsung Galaxy S25 Makes Its Geekbench Appearance With Snapdragon 8 Elite for Galaxy, 12GB RAM",
+        "link": "https://www.gadgets360.com/mobiles/news/samsung-s25-geekbench-snapdragon-8-elite-for-galaxy-specifications-galaxy-7027442",
+        "description": "Samsung hasn’t shared much of its plans about the upcoming phones",
+        "published": "Fri, 15 Nov 2024 19:29:08 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Apple Records Highest-Ever Quarterly Shipments as Indian Smartphone Market Grew 5.6 Percent in Q3 2024: IDC",
+        "link": "https://www.gadgets360.com/mobiles/news/xiaomi-apple-oppo-samsung-smartphone-shipments-q3-2024-idc-7027385",
+        "description": "iPhone 15 (pictured) and iPhone 13 were Apple's bestselling handsets in Q3 2024",
+        "published": "Fri, 15 Nov 2024 19:08:31 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "EBA Establishes Stricter Oversight for Firms Handling Crypto-Assets and Payments: Details",
+        "link": "https://www.gadgets360.com/cryptocurrency/news/eba-eu-restrictive-oversight-crypto-assets-payments-7027307",
+        "description": "AMLA will monitor the internal policies and procedures of supervised financial institutions",
+        "published": "Fri, 15 Nov 2024 18:44:24 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "iQOO Neo 10 Series Pre-Reservations Begin; Design Teased",
+        "link": "https://www.gadgets360.com/mobiles/news/iqoo-neo-10-pro-series-pre-orders-design-teaser-specifications-weibo-7026840",
+        "description": "iQOO Neo 10 Pro is said to be pwered by a MediaTek Dimensity 9400 chipset",
+        "published": "Fri, 15 Nov 2024 18:39:12 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Samsung Galaxy S22 Ultra, Other Models Eligible for One-Time Free Screen Replacement in India",
+        "link": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s22-ultra-one-time-free-screen-replacement-service-centres-7026541",
+        "description": "Samsung Galaxy S22 Ultra was launched in 2022 and is eligible for the replacement offer",
+        "published": "Fri, 15 Nov 2024 18:33:29 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "UK to Launch Pilot for Blockchain-Based Digital Gilt Instrument: Key Details",
+        "link": "https://www.gadgets360.com/cryptocurrency/news/uk-pilot-blockchain-digital-gilt-instrument-7027171",
+        "description": "The UK previously legalised stablecoins under former PM Rishi Sunak",
+        "published": "Fri, 15 Nov 2024 18:26:31 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Samsung’s Tri-Folding Phone Details Emerge Online, Suggests Display Dimensions",
+        "link": "https://www.gadgets360.com/mobiles/news/samsung-tri-fold-smartphone-display-dimensions-report-7026928",
+        "description": "Samsung’s latest book-style foldable is its Galaxy Z Fold 6 (pictured)",
+        "published": "Fri, 15 Nov 2024 17:55:57 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Samsung Galaxy A26 Design Leaked via CAD Renders; Suggests Triple Rear Cameras, Waterdrop-Style Notch",
+        "link": "https://www.gadgets360.com/mobiles/news/samsung-a26-cad-renders-design-specifications-galaxy-report-7026090",
+        "description": "Samsung Galaxy A26 is expected to feature plastic frame",
+        "published": "Fri, 15 Nov 2024 17:29:01 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Apple Faces UK Class Action Over Data Storage Allegations",
+        "link": "https://www.gadgets360.com/mobiles/news/apple-faces-uk-class-action-data-storage-allegations-7026285",
+        "description": "Apple raised the price of iCloud storage for UK consumers by between 20 percent and 29 percent",
+        "published": "Fri, 15 Nov 2024 16:58:18 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Meta Fined EUR 798 Million by EU Over Abusing Classified Ads Dominance",
+        "link": "https://www.gadgets360.com/social-networking/news/meta-fined-eur-798-million-eu-classified-ads-dominance-7026023",
+        "description": "Meta shares fell as much as one percent after trading opened in New York",
+        "published": "Fri, 15 Nov 2024 16:56:01 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Google Shielded Email Feature Reportedly in Development; Could Help Users Hide Email Addresses",
+        "link": "https://www.gadgets360.com/apps/news/google-shielded-email-feature-development-report-7026171",
+        "description": "Shielded Email could forward emails from aliases to a user's actual inbox",
+        "published": "Fri, 15 Nov 2024 16:39:50 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "OnePlus 13, OnePlus 13R Global Variants Colours, RAM and Storage Options Tipped",
+        "link": "https://www.gadgets360.com/mobiles/news/oneplus-13-13r-series-ram-storage-variants-colour-options-leak-7025028",
+        "description": "OnePlus 13 launched in Blue Moments, Obsidian Realm, and White Dew shades in China",
+        "published": "Fri, 15 Nov 2024 15:51:50 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Stablecoin Issuer Tether Moves Into Tokenising Stocks and Bonds",
+        "link": "https://www.gadgets360.com/cryptocurrency/news/stablecoin-issuer-tether-tokenising-stocks-bonds-7025686",
+        "description": "Tether is targeting businesses and governments as customers",
+        "published": "Fri, 15 Nov 2024 15:33:37 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Oppo Reno 13 Series Leaked Images Suggest Uncanny Resemblance to iPhone 12",
+        "link": "https://www.gadgets360.com/mobiles/news/oppo-reno-13-series-leaked-images-iphone-12-design-7024834",
+        "description": "Oppo Reno 13 series is the purported successor to the Reno 12 lineup (pictured above)",
+        "published": "Fri, 15 Nov 2024 15:15:01 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Google Maps Updated With Product Search, Trailer-Friendly Routes and Weather Disruption Alerts",
+        "link": "https://www.gadgets360.com/apps/news/google-maps-update-product-search-trailer-routes-features-7024950",
+        "description": "Car drivers can use 'trailer-friendly routes' to avoid obstacles while driving",
+        "published": "Fri, 15 Nov 2024 14:09:38 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Samsung Galaxy S25 Series Tipped to Launch on January 22 During Galaxy Unpacked Event",
+        "link": "https://www.gadgets360.com/mobiles/news/samsung-s25-plus-ultra-slim-series-launch-date-january-galaxy-reports-7024389",
+        "description": "Samsung Galaxy S24 series was launched on January 17 in San Jose, California",
+        "published": "Fri, 15 Nov 2024 13:57:24 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "BSNL’s New National Wi-Fi Roaming Lets FTTH Consumers Connect to Hotspots Outside Their Homes",
+        "link": "https://www.gadgets360.com/telecom/news/bsnl-national-wifi-roaming-service-ftth-consumers-hotspots-7024344",
+        "description": "BSNL recently updated its logo ahead of anticipated commercial rollout of 4G services in India",
+        "published": "Fri, 15 Nov 2024 13:53:19 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin Briefly Hits $93,000 Before Retreating Amid Price Correction",
+        "link": "https://www.gadgets360.com/cryptocurrency/news/bitcoin-price-today-usd-93000-price-correction-phase-ether-dogecoin-solana-7025039",
+        "description": "As of now, the total cryptocurrency market valuation is $2.91 trillion.",
+        "published": "Fri, 15 Nov 2024 13:53:15 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Lenovo Raises PC Shipments Outlook for 2025 After Strong Earnings",
+        "link": "https://www.gadgets360.com/laptops/news/lenovo-raises-pc-outlook-after-strong-earning-7024627",
+        "description": "Lenovo's quarterly PC shipments have climbed three percent from a year ago",
+        "published": "Fri, 15 Nov 2024 13:35:38 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Netflix Hopes for Live Sports Knockout with Jake Paul-Mike Tyson Fight",
+        "link": "https://www.gadgets360.com/entertainment/news/netflix-jake-paul-mike-tyson-fight-live-sports-7024341",
+        "description": "The fight will be held at the 80,000-capacity AT&T Stadium in Arlington",
+        "published": "Fri, 15 Nov 2024 12:34:30 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Motorola Edge 50 Neo Review: A Feature-Packed Mid-Range Smartphone",
+        "link": "https://www.gadgets360.com/mobiles/reviews/motorola-moto-edge-50-neo-review-7020277",
+        "description": "Motorola Edge 50 Neo features a 10-megapixel telephoto camera with 3x optical zoom",
+        "published": "Fri, 15 Nov 2024 12:13:30 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Windows 11 ISOs for Arm-Based PCs and Virtual Machines Released by Microsoft",
+        "link": "https://www.gadgets360.com/laptops/news/windows-11-iso-released-arm-based-pc-microsoft-7023952",
+        "description": "Windows 11 is available in the disk image format in multiple languages",
+        "published": "Fri, 15 Nov 2024 12:08:57 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "iPhone 'Inactivity Reboot' Feature Restarts Device After 72 Hours, Expert Says",
+        "link": "https://www.gadgets360.com/mobiles/news/iphone-inactivity-reboot-feature-security-researchers-7024133",
+        "description": "Any iPhone running iOS 18.1 or newer version will have access to the 'Inactivity Reboot' feature",
+        "published": "Fri, 15 Nov 2024 11:51:40 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "HMD Pulse 2 Pro Render, Specifications Leak Ahead of Launch; May Sport Unisoc T612 SoC, 5,000mAh Battery",
+        "link": "https://www.gadgets360.com/mobiles/news/hmd-pulse-2-pro-render-design-specification-5000-mah-battery-leak-7023756",
+        "description": "HMD Pulse Pro is equipped with a Unisoc T606 processor",
+        "published": "Fri, 15 Nov 2024 11:51:40 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Google Launches Gemini for iOS App With Gemini Live Capability, More",
+        "link": "https://www.gadgets360.com/apps/news/gemini-for-ios-app-launch-ai-features-google-7023241",
+        "description": "The Gemini app on iPhone is now available in India",
+        "published": "Fri, 15 Nov 2024 10:54:37 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Xiaomi’s Android 15-Based HyperOS 2 Update to Roll Out This Month: Global Release Schedule",
+        "link": "https://www.gadgets360.com/mobiles/news/hyperos-2-update-release-date-android-15-xiaomi-14-series-7023242",
+        "description": "Xiaomi’s latest HyperOS 2 update brings visual changes across the board",
+        "published": "Fri, 15 Nov 2024 10:52:37 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Full Moon in November 2024: Beaver Moon is the Last Supermoon of the Year",
+        "link": "https://www.gadgets360.com/science/news/november-2024-full-moon-is-the-last-supermoon-of-the-year-7018084",
+        "description": "The next full moon is a supermoon, known as the Beaver Moon, and aligns with several festivals.",
+        "published": "Thu, 14 Nov 2024 23:44:18 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Scientists Discover New Electric Field in Earth’s Atmosphere Crucial for Life",
+        "link": "https://www.gadgets360.com/science/news/scientists-discover-new-electric-field-in-earth-s-atmosphere-crucial-for-life-7017811",
+        "description": "Endurance rocket launches from Svalbard in May 2022 to measure Earth's atmospheric electric field.",
+        "published": "Thu, 14 Nov 2024 23:40:13 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "New Telugu Movies OTT Releases This Week: Devara, Maa Nanna Super, Janaka Aithe Ganaka, and More",
+        "link": "https://www.gadgets360.com/entertainment/news/telugu-movies-on-ott-this-week-7018249",
+        "description": "Telugu audiences can now stream a selection of newly films and web series on popular OTT platforms.",
+        "published": "Thu, 14 Nov 2024 23:35:07 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Kanguva OTT Release Date Reportedly Revealed: Here's Everything You Need to Know",
+        "link": "https://www.gadgets360.com/entertainment/news/kanguva-movie-release-date-ott-details-plot-suriya-s-dual-role-fantasy-epic-7018079",
+        "description": "Tamil cinema fans are in for a treat as Kanguva, the latest film from popular actor Suriya.",
+        "published": "Thu, 14 Nov 2024 23:27:56 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Maa Nanna Superhero OTT Release Date: Sudheer Babu's Emotional Family Drama to Stream on ZEE5",
+        "link": "https://www.gadgets360.com/entertainment/news/maa-nanna-superhero-ott-release-date-7017891",
+        "description": "'Maa Nanna Superhero', starring Sudheer Babu, will premiere on ZEE5 on November 15, 2024.",
+        "published": "Thu, 14 Nov 2024 23:25:11 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "The Rana Daggubati Show to Premiere on Prime Video on November 23",
+        "link": "https://www.gadgets360.com/entertainment/news/the-rana-daggubati-show-to-premiere-on-prime-video-on-november-23-7017814",
+        "description": "The Rana Daggubati Show, premiering on November 23.",
+        "published": "Thu, 14 Nov 2024 23:25:07 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "India's CCPA to Probe E-Scooter Maker Ola Electric Over Service, Product Standards",
+        "link": "https://www.gadgets360.com/auto/news/india-probe-e-scooter-maker-ola-electric-service-product-standards-7019501",
+        "description": "The CCPA has asked the Bureau of Indian Standards to investigate Ola",
+        "published": "Thu, 14 Nov 2024 20:06:34 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.928827",
+        "source": "NDTV"
+    },
+    {
+        "title": "Shift Up Says Its Considering Launching Stellar Blade on PC in 2025",
+        "link": "https://www.gadgets360.com/games/news/stellar-blade-pc-launch-2025-shift-up-announcement-ps5-7019902",
+        "description": "Stellar Blade is Shift Up's debut title",
+        "published": "Thu, 14 Nov 2024 20:03:41 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Reliance and Disney Complete Merger to Create a Rs. 70,352 Crore Joint Venture",
+        "link": "https://www.gadgets360.com/entertainment/news/reliance-disney-complete-merger-create-joint-venture-rs-70352-crore-nita-ambani-chairperson-7019830",
+        "description": "Reliance Industries has invested Rs. 11,500 crores in the joint venture",
+        "published": "Thu, 14 Nov 2024 19:52:34 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Vivo X200 Series Global Launch Date Confirmed; Mini Model May Remain Exclusive to China",
+        "link": "https://www.gadgets360.com/mobiles/news/vivo-x200-pro-series-malaysia-launch-date-pre-order-details-specifications-7019684",
+        "description": "Vivo X200 is confirmed to be available in Aurora Green and Midnight Black shades in Malaysia",
+        "published": "Thu, 14 Nov 2024 19:30:29 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Gemini in Gmail Gets Integration With Google Calendar App, Lets Users Ask Date-Based Queries",
+        "link": "https://www.gadgets360.com/ai/news/gemini-in-gmail-google-calendar-app-integration-rolling-out-date-based-queries-7019424",
+        "description": "Users can tap on the Ask Gemini icon on the top of the Gmail interface to access Google Calendar",
+        "published": "Thu, 14 Nov 2024 18:55:00 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Realme Narzo 70 Curve Tipped to Launch in India Next Month; Price Range Leaked",
+        "link": "https://www.gadgets360.com/mobiles/news/realme-narzo-70-curve-india-price-launch-timeline-report-7018972",
+        "description": "Realme Narzo 70 Turbo 5G ships with MediaTek Dimensity 7300 Energy 5G SoC",
+        "published": "Thu, 14 Nov 2024 18:48:20 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Crypto Taxes Generated $78 Million in Kenya, Authorities Target Over $460 Million",
+        "link": "https://www.gadgets360.com/cryptocurrency/news/crypto-taxes-kenya-usd-78-million-kra-bag-usd-460-million-next-five-years-7019423",
+        "description": "Kenya to use AI, ML to identify tax evaders from the Web3 space",
+        "published": "Thu, 14 Nov 2024 18:45:45 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Apple Final Cut Pro 11 With New AI-Powered Caption Generation and Spatial Video Editing Released",
+        "link": "https://www.gadgets360.com/ai/news/apple-final-cut-pro-11-ai-caption-generation-spatial-video-editing-features-released-7018642",
+        "description": "The Final Cut Pro 11 can be purchased at the one-time cost of Rs. 29,900",
+        "published": "Thu, 14 Nov 2024 18:25:26 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Google Rolls Out Android 15 QPR2 Beta 1; Reportedly Gets Customisable Do Not Disturb Feature, More",
+        "link": "https://www.gadgets360.com/mobiles/news/android-15-qpr2-beta-1-release-7019182",
+        "description": "Google released the stable Android 15 update for its Pixel devices last month",
+        "published": "Thu, 14 Nov 2024 18:18:30 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Coinbase Acquires Utopia Labs, Aims to Speed Up On-Chain Payments",
+        "link": "https://www.gadgets360.com/cryptocurrency/news/coinbase-acquires-utopia-labs-speed-up-onchain-payments-7019168",
+        "description": "Coinbase has been exploring ways to integrate AI with crypto",
+        "published": "Thu, 14 Nov 2024 18:12:48 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Vivo Y300 5G India Launch Date Announced; Rear Design, Colours Revealed",
+        "link": "https://www.gadgets360.com/mobiles/news/vivo-y300-5g-india-launch-date-design-colour-options-teaser-specifications-expected-7018101",
+        "description": "Vivo Y300 5G houses a vertical dual-camera setup at the rear",
+        "published": "Thu, 14 Nov 2024 17:27:12 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Vivo V40e Review: Easy on the Eyes",
+        "link": "https://www.gadgets360.com/mobiles/reviews/vivo-v40e-review-7012803",
+        "description": "The phone starts at Rs. 28,999.",
+        "published": "Thu, 14 Nov 2024 17:12:14 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "BSNL Offers 3GB of Additional Data With Rs. 599 Prepaid Recharge Plan: Benefits",
+        "link": "https://www.gadgets360.com/telecom/news/bsnl-rs-599-prepaid-recharge-plan-benefits-validity-7017935",
+        "description": "BSNL recently updated its logo ahead of anticipated commercial rollout of 4G services in India",
+        "published": "Thu, 14 Nov 2024 17:10:45 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "The Night Agent Season 2 OTT Release Date Confirmed for January 2025 on Netflix",
+        "link": "https://www.gadgets360.com/entertainment/news/the-night-agent-season-2-ott-release-date-confirmed-for-january-2025-on-netflix-7017973",
+        "description": "Season 2 of The Night Agent is set to debut on January 23, 2025",
+        "published": "Thu, 14 Nov 2024 17:04:26 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Amber Discovered For the First Time in Antarctica: What You Need to Know",
+        "link": "https://www.gadgets360.com/science/news/amber-discovered-for-the-first-time-in-antarctica-7018321",
+        "description": "Macrograph of an approximately 70 µm amber extracted from the lignite in the sediments of the MeBo core.",
+        "published": "Thu, 14 Nov 2024 17:02:38 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Experience Unmatched AI and Performance: The OPPO Find X8 Series Is Set to Redefine Flagship Standards",
+        "link": "https://www.gadgets360.com/mobiles/sponsored/experience-unmatched-ai-and-performance-the-oppo-find-x8-series-is-set-to-redefine-flagship-standards-7018451",
+        "description": "‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎",
+        "published": "Thu, 14 Nov 2024 17:02:08 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Microsoft’s Gaming Chief Phil Spencer Is Still Open to Acquisitions After Activision Deal",
+        "link": "https://www.gadgets360.com/games/news/microsoft-gaming-chief-open-to-acquisition-activision-deal-7017721",
+        "description": "Phil Spencer said more Xbox games would release on PlayStation and Nintendo Switch",
+        "published": "Thu, 14 Nov 2024 16:59:15 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "An Asteroid Burned Up Over California Just Hours After Being Spotted",
+        "link": "https://www.gadgets360.com/science/news/an-asteroid-burned-up-over-california-just-hours-after-being-spotted-7017322",
+        "description": "An animation of asteroid 2024 UQ's trajectory, ending an in impact with Earth.",
+        "published": "Thu, 14 Nov 2024 16:55:49 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "NASA's Swift Observatory Discovers Twin Black Holes Disturbing Galactic Gas Clouds",
+        "link": "https://www.gadgets360.com/science/news/nasa-s-swift-observatory-detects-rare-black-hole-pair-stirring-galaxy-s-gas-clouds-7017432",
+        "description": "Artist's concept of two black holes in the AT 2021hdr outburst, studied by NASA and ZTF.",
+        "published": "Thu, 14 Nov 2024 16:47:31 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Dying Light 2, Like a Dragon: Ishin!, GTA 5 and More Join PS Plus Game Catalog in November",
+        "link": "https://www.gadgets360.com/games/news/ps-plus-game-catalog-november-2024-dying-light-2-like-a-dragon-ishin-gta-5-chivalry-2-sony-ps4-ps5-7017789",
+        "description": "Dying Light 2 Stay Human released in 2022",
+        "published": "Thu, 14 Nov 2024 16:40:41 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "OpenAI Reportedly Planning to Launch AI Agents That Can Control Tasks on Computer",
+        "link": "https://www.gadgets360.com/ai/news/openai-ai-agent-operator-launch-control-tasks-on-computer-report-7017431",
+        "description": "OpenAI is reportedly working on several agent-related research projects",
+        "published": "Thu, 14 Nov 2024 16:34:01 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Vivo S20 Pro Specifications Leaked; Said to Get Dimensity 9300+ SoC, 50-Megapixel Front Camera",
+        "link": "https://www.gadgets360.com/mobiles/news/vivo-s20-pro-specifications-leak-weibo-7016987",
+        "description": "Vivo S19 Pro is equipped with the MediaTek Dimensity 9200+ SoC",
+        "published": "Thu, 14 Nov 2024 16:13:57 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Ancient Fossil Bird Skull Reveals Roots of Avian Intelligence, Finds New Study",
+        "link": "https://www.gadgets360.com/science/news/ancient-fossil-bird-skull-reveals-roots-of-avian-intelligence-finds-new-study-7017679",
+        "description": "A unique fossil discovery could transform our understanding of bird brain and intelligence evolution.",
+        "published": "Thu, 14 Nov 2024 15:56:02 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "YouTube Said to Be Testing New Vertical Scroll Gestures for Mobile App, Leaving Users Disgruntled",
+        "link": "https://www.gadgets360.com/apps/news/youtube-vertical-scroll-gestures-testing-report-7017050",
+        "description": "The changes are said to work along same lines as the scroll gestures on YouTube Shorts",
+        "published": "Thu, 14 Nov 2024 15:49:48 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "NASA Data Empowers Global Response to Rising Sea Levels, Here's What You Need to Know",
+        "link": "https://www.gadgets360.com/science/news/nasa-data-empowers-global-response-to-rising-sea-levels-forecasting-coastal-impacts-through-2150-7017571",
+        "description": "Coastal areas like Drakes Bay, California, are vulnerable to sea level rise.",
+        "published": "Thu, 14 Nov 2024 15:49:05 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Meta Will Face Antitrust Trial Over Instagram, WhatsApp Acquisitions",
+        "link": "https://www.gadgets360.com/apps/news/meta-face-antitrust-trials-instagram-whatsapp-acquisitions-7017334",
+        "description": "Meta, then known as Facebook, overpaid for Instagram in 2012 and WhatsApp in 2014",
+        "published": "Thu, 14 Nov 2024 15:04:48 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "12,000-Year-Old Doughnut-Shaped Pebbles in Israel May Be Early Evidence of Wheel Technology",
+        "link": "https://www.gadgets360.com/science/news/ancient-doughnut-shaped-pebbles-in-israel-suggest-early-wheel-tech-dating-back-12000-years-7017175",
+        "description": "Spinning methods: thigh-spinning, spindle-and-whorl, drop spinning, and pebble experiments.",
+        "published": "Thu, 14 Nov 2024 14:25:51 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Solar Surge Cuts Binar Satellites' Mission Short, Underscoring Space Weather Effects on Earth and Orbiting Satellites",
+        "link": "https://www.gadgets360.com/science/news/increased-solar-activity-disrupts-satellites-7008829",
+        "description": "Low Earth orbit satellites experience drag, lose altitude, and eventually burn up.",
+        "published": "Thu, 14 Nov 2024 14:12:28 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Australopithecines May Have Used Tools Over 3 Million Years Ago, Reveals New Study",
+        "link": "https://www.gadgets360.com/science/news/ancient-tool-use-australopithecines-hands-reveal-skilled-dexterity-3m-years-ago-7008925",
+        "description": "Lucy and her fellow australopithecines may have used tools over 3 million years ago.",
+        "published": "Thu, 14 Nov 2024 14:08:55 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Spotify for Podcasters Evolves Into a New Platform for Creators With Monetisation, Analytics and More",
+        "link": "https://www.gadgets360.com/apps/news/spotify-for-podcasters-new-platform-features-7016327",
+        "description": "Spotify for Creators now offers improved analytics for creators",
+        "published": "Thu, 14 Nov 2024 13:38:07 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Nubia Z70 Ultra Launch Set for November 21, Teased to Feature 6.85-inch 1.5K Display",
+        "link": "https://www.gadgets360.com/mobiles/news/nubia-z70-ultra-launch-date-teasers-specifications-weibo-7016290",
+        "description": "Nubia previously confirmed that the upcoming Z70 Ultra will run on the Snapdragon 8 Elite SoC",
+        "published": "Thu, 14 Nov 2024 13:35:47 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Indian Scientists Create Genetically Modified Bacteria Capable of Mathematical Computation",
+        "link": "https://www.gadgets360.com/science/news/indian-scientists-create-genetically-modified-bacteria-capable-of-mathematical-computation-7008929",
+        "description": "Scientists from Kolkata’s Saha Institute have genetically engineered bacteria to perform calculations.",
+        "published": "Thu, 14 Nov 2024 13:35:25 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Google Introduces AI-Powered Safety Tools to Protect Users from Phone Call Scams and Malicious Apps",
+        "link": "https://www.gadgets360.com/ai/news/google-ai-scam-detection-phone-app-play-protect-live-threat-detection-real-time-alert-tools-introduced-7016269",
+        "description": "Google Play Protect real-time alerts monitor an app’s activity to determine malicious behaviour",
+        "published": "Thu, 14 Nov 2024 13:32:47 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "China's Zhurong Rover Helps Find Evidence of Potential Ancient Shoreline on Mars",
+        "link": "https://www.gadgets360.com/science/news/chinas-mars-rover-zhurong-finds-potential-ancient-shoreline-on-mars-supporting-martian-ocean-hypothesis-7009009",
+        "description": "A 'selfie' taken by China's Zhurong Mars rover during the Tianwen-1 mission.",
+        "published": "Thu, 14 Nov 2024 13:30:27 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Nvidia App With AI-Powered RTX Game Filters, Support for 4K 120fps Video Capture Announced",
+        "link": "https://www.gadgets360.com/laptops/news/nvidia-app-launch-ai-powered-rtx-filters-features-7015784",
+        "description": "The new Nvidia app brings recording tools available via the in-game overlay",
+        "published": "Thu, 14 Nov 2024 13:28:09 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:30.929828",
+        "source": "NDTV"
+    },
+    {
+        "title": "Google's Gemini AI sends disturbing response, tells user to ‘please die’",
+        "link": "https://www.livemint.com/technology/tech-news/googles-gemini-ai-sends-disturbing-response-tells-user-to-please-die-sundar-pichai-artificial-intelligence-11731905113822.html",
+        "description": "Gemini, Google’s AI chatbot, has come under scrutiny after responding to a student with harmful remarks. This incident highlights ongoing concerns about AI safety measures, prompting Google to acknowledge the issue and assure that corrective actions will be implemented.",
+        "published": "Mon, 18 Nov 2024 10:35:42 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.032313",
+        "source": "Mint"
+    },
+    {
+        "title": "Tech News Today Live Updates on November 18, 2024: Google's Gemini AI sends disturbing response, tells user to ‘please die’",
+        "link": "https://www.livemint.com/technology/latest-technology-news-today-on-november-18-2024-live-updates-11731894835611.html",
+        "description": "Tech News Today Live Updates on November 18, 2024: Stay updated with the latest developments in the world of technology from around the globe. Discover insights on new gadgets, software updates, and breakthroughs in AI, blockchain, and more, impacting both consumers and industries.",
+        "published": "Mon, 18 Nov 2024 07:23:55 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.032313",
+        "source": "Mint"
+    },
+    {
+        "title": "Apple said to launch AirTag 2 with 3 big changes next year: All you need to know",
+        "link": "https://www.livemint.com/technology/tech-news/apple-said-to-launch-airtag-2-with-3-big-changes-next-year-all-you-need-to-know-time-cook-iphone-find-my-11731893255167.html",
+        "description": "According to Bloomberg's Mark Gurman, Apple is set to launch AirTag 2 next year with upgrades including improved range, a new wireless chip, and enhanced privacy features, possibly omitting the speaker to combat stalking.",
+        "published": "Mon, 18 Nov 2024 07:23:51 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.032313",
+        "source": "Mint"
+    },
+    {
+        "title": "Best 5 litre geysers: Top 8 efficient picks from Bajaj, Crompton and other leading brands to keep you warm this winter",
+        "link": "https://www.livemint.com/technology/gadgets/best-5-litre-geysers-top-8-efficient-picks-from-bajaj-crompton-and-other-leading-brands-to-keep-you-warm-this-winter-11731557897682.html",
+        "description": "Find the perfect 5 litre geyser for your home with our comprehensive list of the best products available. From budget-friendly options to high-end models, we've got you covered.",
+        "published": "Sun, 17 Nov 2024 12:00:14 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.032313",
+        "source": "Mint"
+    },
+    {
+        "title": "Tech News Today highlights on November 17, 2024: Best 5 litre geysers: Top 8 efficient picks from Bajaj, Crompton and other leading brands to keep you warm this winter",
+        "link": "https://www.livemint.com/technology/latest-technology-news-today-on-november-17-2024-live-updates-11731807558812.html",
+        "description": "Tech News Today highlights on November 17, 2024: Stay updated with the latest developments in the world of technology from around the globe. Discover insights on new gadgets, software updates, and breakthroughs in AI, blockchain, and more, impacting both consumers and industries.",
+        "published": "Sun, 17 Nov 2024 07:09:18 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.032313",
+        "source": "Mint"
+    },
+    {
+        "title": "Best tablets to buy under  ₹25,000 in November 2024: Poco Pad 5G, OnePlus Pad Go, Honor Pad 9 and more",
+        "link": "https://www.livemint.com/technology/best-tablets-to-buy-under-rs-25-000-in-november-2024-poco-pad-5g-oneplus-pad-go-honor-pad-9-and-more-11731806660563.html",
+        "description": "November 2024 sees a surge in quality tablets under  ₹25,000, including Poco Pad 5G, Honor Pad 9, Xiaomi Pad 6, and OnePlus Pad Go LTE. Each tablet offers unique features such as high refresh rates, large displays, and strong battery life.",
+        "published": "Sun, 17 Nov 2024 07:09:13 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.032313",
+        "source": "Mint"
+    },
+    {
+        "title": "Google AI's threatening reply ‘thoroughly freaks out’ Michigan student; ‘You are not needed…’",
+        "link": "https://www.livemint.com/news/google-ais-threatening-reply-thoroughly-freaks-out-michigan-student-you-are-not-needed-11731804094063.html",
+        "description": "Google's Gemini chatbot shocked a Michigan student with a threatening message about human worth during a discussion on aging.&amp;nbsp;",
+        "published": "Sun, 17 Nov 2024 06:30:29 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.032313",
+        "source": "Mint"
+    },
+    {
+        "title": "Weekly Tech Recap: X faces mass exodus post-Trump victory, Sam Altman reignites Grok vs ChatGPT debate and more",
+        "link": "https://www.livemint.com/technology/tech-news/weekly-tech-recap-x-faces-mass-exodus-post-trump-victory-sam-altman-openai-grok-vs-chatgpt-debate-apple-ios-18-whatsapp-11731749194233.html",
+        "description": "Major tech highlights include Bluesky and Threads attracting users after X's decline, Altman's rebuttal to Musk on AI bias, the introduction of WhatsApp's drafts feature, Apple’s iOS 18.2 beta 3 release, and Oppo's Find X8 series launch set for November 21 in India.",
+        "published": "Sat, 16 Nov 2024 15:26:58 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.032313",
+        "source": "Mint"
+    },
+    {
+        "title": "Realme GT 7 Pro pre-order begins in India ahead of launch: Expected price, bank offers, specs and all we know",
+        "link": "https://www.livemint.com/technology/gadgets/realme-gt-7-pro-pre-order-begins-in-india-ahead-of-launch-expected-price-bank-offers-specs-and-all-we-know-11731741580441.html",
+        "description": "Realme GT 7 Pro is set to launch in India on November 26, with pre-orders available from November 18. The phone has been confirmed to come powered by the Qualcomm Snapdragon 8 Elite processor and feature IP69 rating for water and dust resistance.",
+        "published": "Sat, 16 Nov 2024 13:07:26 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.032313",
+        "source": "Mint"
+    },
+    {
+        "title": "Best steam irons: Top 8 options with new-age features for efficient, quick and easy ironing at home",
+        "link": "https://www.livemint.com/technology/gadgets/best-steam-irons-top-8-options-with-new-age-features-for-efficient-quick-and-easy-ironing-at-home-11731557772179.html",
+        "description": "Find the perfect steam iron for your needs with our list of the 8 best options available on the market today. Compare features, pros, and cons to make an informed decision.",
+        "published": "Sat, 16 Nov 2024 12:37:20 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Best camera phones under  ₹30,000 in November 2024: Vivo T3 Ultra, Realme GT 6T, OnePlus Nord 4 and more",
+        "link": "https://www.livemint.com/technology/gadgets/best-camera-phones-under-rs-30-000-in-november-2024-vivo-t3-ultra-realme-gt-6t-oneplus-nord-4-and-more-11729215764854.html",
+        "description": "Best camera phones under  ₹30,000 in November 2024: Vivo T3 Ultra, Realme 13 Pro, Motorola Edge 50 Pro, and OnePlus Nord 4 are some of the top devices on this list. Each device offers unique camera features and performance specifications, making them ideal choices for photography&amp;nbsp;",
+        "published": "Sat, 16 Nov 2024 11:11:28 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Sam Altman hits back at Elon Musk over Grok vs ChatGPT debate: 'Which is the left-wing machine?'",
+        "link": "https://www.livemint.com/technology/tech-news/openai-ceo-sam-altman-takes-a-dig-at-elon-musks-grok-ai-says-chatgpt-least-biased-ai-in-us-election-donald-trump-11731722767281.html",
+        "description": "Altman countered Musk's allegations of left-wing bias in ChatGPT, demonstrating its low bias scores in a comparison with Grok. He questioned Musk's claims, recalling Musk's long-standing criticism of the AI and their prior collaboration that ended due to disagreements.",
+        "published": "Sat, 16 Nov 2024 09:49:03 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Best smartphones under  ₹25,000 in November 2024: Motorola Edge 50 Neo, OnePlus Nord CE4 and more",
+        "link": "https://www.livemint.com/technology/best-smartphones-under-rs-25-000-in-november-2024-motorola-edge-50-neo-oneplus-nord-ce4-and-more-11731672110153.html",
+        "description": "You no longer have to compromise much when buying a phone under  ₹25,000. Here’s our list of the best phones you’ll enjoy within this budget.",
+        "published": "Sat, 16 Nov 2024 09:30:10 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Small businesses ramp-up cybersecurity adoption, thanks to AI",
+        "link": "https://www.livemint.com/technology/small-businesses-cybersecurity-adoption-thanks-to-ai-marketable-base-providers-msmes-11731667589800.html",
+        "description": "The rising adoption of AI is also helping cybersecurity providers increase their marketable base in the country.",
+        "published": "Sat, 16 Nov 2024 05:30:18 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Tech News Today highlights on November 16, 2024: Weekly Tech Recap: X faces mass exodus post-Trump victory, Sam Altman reignites Grok vs ChatGPT debate and more",
+        "link": "https://www.livemint.com/technology/latest-technology-news-today-on-november-16-2024-live-updates-11731698834112.html",
+        "description": "Tech News Today highlights on November 16, 2024: Stay updated with the latest developments in the world of technology from around the globe. Discover insights on new gadgets, software updates, and breakthroughs in AI, blockchain, and more, impacting both consumers and industries.",
+        "published": "Sat, 16 Nov 2024 00:57:13 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Western Digital My Passport 6TB HDD Review: Sturdy, spacious and secure",
+        "link": "https://www.livemint.com/technology/tech-reviews/western-digital-my-passport-6tb-hdd-review-sturdy-spacious-and-secure-11731611245798.html",
+        "description": "Western Digital My Passport 6TB HDD is the first major upgrade in the series since 2020. With an additional terabyte of storage, enhanced backup options, and improved security features, the drive presents a compelling option around the  ₹15,000 price bracket.",
+        "published": "Sat, 16 Nov 2024 00:57:08 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Uber enables audio recording during trips, brings new safety-focused feature for female drivers",
+        "link": "https://www.livemint.com/technology/tech-news/uber-enables-audio-recording-during-trips-brings-new-safety-focused-feature-for-female-drivers-11731660359175.html",
+        "description": "Uber enhances its app for drivers by adding features like audio recording for safety, the option for female drivers to select female riders, and instant cashout of earnings. These updates aim to benefit its large driver base in India significantly.",
+        "published": "Fri, 15 Nov 2024 15:01:36 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Best phones to buy under  ₹40,000 this November: OnePlus 12R, iQOO Neo 9 Pro and more",
+        "link": "https://www.livemint.com/technology/best-phones-to-buy-under-rs-40-000-this-november-oneplus-12r-iqoo-neo-9-pro-and-more-11731651556262.html",
+        "description": "Finding a phone under  ₹40,000 can be tricky, but we've got you covered with this list of the best phones you can buy.",
+        "published": "Fri, 15 Nov 2024 13:08:36 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Samsung Galaxy S24 Ultra vs iPhone 17 Pro Max: How next Pro iPhone may stack against Android flagship",
+        "link": "https://www.livemint.com/technology/samsung-galaxy-s24-ultra-vs-iphone-17-pro-max-how-next-pro-iphone-may-stack-against-android-flagship-11731652214228.html",
+        "description": "Samsung Galaxy S24 Ultra vs iPhone 17 Pro Max: Know if you should get the Android flagship or wait for next year’s iPhone 17 Pro Max.",
+        "published": "Fri, 15 Nov 2024 12:13:28 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Best 25 litre geysers: Here are the top 9 picks with modern safety features from Crompton, Bajaj, Havells and more",
+        "link": "https://www.livemint.com/technology/best-25-litre-geysers-here-are-the-top-9-picks-with-modern-safety-features-from-crompton-bajaj-havells-and-more-11731557625857.html",
+        "description": "Looking for the perfect 25-litre geyser for your home? Check out our list of the top 9 geysers available in the market today, complete with pros, cons, and a feature comparison table to help you make an informed decision.",
+        "published": "Fri, 15 Nov 2024 12:00:11 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Vivo Y300 5G price and specifications leaked ahead of November 21 India launch: All we know so far",
+        "link": "https://www.livemint.com/technology/gadgets/vivo-y300-5g-price-and-specifications-leaked-ahead-of-november-21-india-launch-all-we-know-so-far-11731644114161.html",
+        "description": "On November 21, Vivo will unveil the Y300 5G in India. Priced between  ₹21-25 thousand, it offers 8GB RAM, 128GB/256GB storage, a 6.7-inch AMOLED display, Snapdragon 4 Gen 2 chip, 5,000mAh battery, and a 50MP rear camera.",
+        "published": "Fri, 15 Nov 2024 10:22:57 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Tech News Today highlights on November 15, 2024: Uber enables audio recording during trips, brings new safety-focused feature for female drivers",
+        "link": "https://www.livemint.com/technology/latest-technology-news-today-on-november-15-2024-live-updates-11731645372310.html",
+        "description": "Tech News Today highlights on November 15, 2024: Stay updated with the latest developments in the world of technology from around the globe. Discover insights on new gadgets, software updates, and breakthroughs in AI, blockchain, and more, impacting both consumers and industries.",
+        "published": "Fri, 15 Nov 2024 10:06:11 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Bluesky faces outage as Donald Trump’s win sparks mass exodus from Elon Musk’s X",
+        "link": "https://www.livemint.com/technology/tech-news/bluesky-faces-outage-as-donald-trump-s-win-sparks-mass-exodus-from-elon-musk-s-x-11731644629018.html",
+        "description": "As millions flock to Bluesky amid user exodus from X, the platform faces potential troubles. Downdetector reported significant access issues on November 14 and 15, with outage reports peaking at 3:47 AM, though confirmation from the company is pending.",
+        "published": "Fri, 15 Nov 2024 10:06:08 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Best air purifiers of 2024: Expert picks for allergen control, odour removal, and better air quality",
+        "link": "https://www.livemint.com/technology/gadgets/best-air-purifiers-of-2024-expert-picks-for-allergen-control-odour-removal-and-better-air-quality-11731585781840.html",
+        "description": "Check out the best air purifiers of 2024, expertly chosen to improve indoor air quality. These models excel in allergen control, odour removal, and efficient filtration, providing cleaner air and a healthier home environment for those concerned with pollutants and allergens.",
+        "published": "Thu, 14 Nov 2024 18:54:32 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Best prices on 43 inch and 55 inch TVs on Amazon: Check top deals curated by our experts",
+        "link": "https://www.livemint.com/technology/gadgets/best-prices-on-43-inch-and-55-inch-tvs-on-amazon-check-top-deals-curated-by-our-experts-11731587857616.html",
+        "description": "43-inch and 55-inch TVs are the most popular choice for shoppers on the internet. See our selection of the top models and choose your model for the next purchase.",
+        "published": "Thu, 14 Nov 2024 18:49:51 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Buying guide: Everything you need to know about the best room heaters for every budget and space",
+        "link": "https://www.livemint.com/technology/gadgets/buying-guide-everything-you-need-to-know-about-the-best-room-heaters-for-every-budget-and-space-11731582300405.html",
+        "description": "This guide helps you choose the best room heaters, comparing different options, types and brands. Be it the best fan heaters or the best oil-filled heaters, this guide covers all the key factors to consider including comfort, efficiency, and room size.",
+        "published": "Thu, 14 Nov 2024 18:08:36 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "The world’s first nuclear clock is on the horizon",
+        "link": "https://www.livemint.com/technology/the-world-s-first-nuclear-clock-is-on-the-horizon-11731581696087.html",
+        "description": "It would be 1,000 times more accurate than today’s atomic timekeepers",
+        "published": "Thu, 14 Nov 2024 17:16:10 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Best 5 star geysers for energy efficiency and hot water comfort: Top picks for 2024",
+        "link": "https://www.livemint.com/technology/gadgets/best-5-star-geysers-for-energy-efficiency-and-hot-water-comfort-top-picks-for-2024-11731579161815.html",
+        "description": "Check out the best 5 star geysers of 2024, offering energy efficiency and reliable hot water performance. These top picks ensure comfort and savings, making them ideal choices for homes looking for eco-friendly solutions without compromising on hot water supply.",
+        "published": "Thu, 14 Nov 2024 16:35:08 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Amazon best deals on water heaters: Up to 59% off on premium models of instant geyser, storage geysers and gas geysers",
+        "link": "https://www.livemint.com/technology/gadgets/amazon-best-deals-on-water-heaters-big-discounts-on-premium-models-of-instant-geyser-storage-geysers-and-gas-geysers-11731577241132.html",
+        "description": "Amazon best deals on water heaters brings amazing discounts on instant geysers, storage geysers and gas geysers. See our top recommendations across categories and bring home one today.",
+        "published": "Thu, 14 Nov 2024 15:45:47 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Best camera phones under  ₹20,000: Samsung Galaxy A16, Moto G85 and more",
+        "link": "https://www.livemint.com/technology/best-camera-phones-under-rs-20-000-samsung-galaxy-a16-moto-g85-and-more-11731564404659.html",
+        "description": "Check out the list of best camera phones under  ₹20,000 such as Samsung Galaxy A16, Moto G85, and others.",
+        "published": "Thu, 14 Nov 2024 11:45:00 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Tech News Today highlights on November 14, 2024: Best air purifiers of 2024: Expert picks for allergen control, odour removal, and better air quality",
+        "link": "https://www.livemint.com/technology/latest-technology-news-today-on-november-14-2024-live-updates-11731563785420.html",
+        "description": "Tech News Today highlights on November 14, 2024: Stay updated with the latest developments in the world of technology from around the globe. Discover insights on new gadgets, software updates, and breakthroughs in AI, blockchain, and more, impacting both consumers and industries.",
+        "published": "Thu, 14 Nov 2024 11:26:25 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "iPhone SE 4 launching in 2025: Refreshed design, powerful specs—minus the premium price",
+        "link": "https://www.livemint.com/technology/iphone-se-4-launching-in-2025-refreshed-design-powerful-specs-minus-the-premium-price-11731562809238.html",
+        "description": "iPhone SE 4 speculation has reached a tipping point, months ahead of its expected launch. Here's everything you can expect from it.",
+        "published": "Thu, 14 Nov 2024 11:26:20 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Best car air purifiers: Boost air quality, remove pollutants, and enjoy a cleaner commute",
+        "link": "https://www.livemint.com/technology/gadgets/best-car-air-purifiers-boost-air-quality-remove-pollutants-and-enjoy-a-cleaner-commute-11731494198006.html",
+        "description": "Check out the best car air purifiers, designed to improve air quality by effectively removing pollutants, allergens, and odours. These compact devices offer a cleaner, healthier environment, making every drive fresher and more comfortable.",
+        "published": "Wed, 13 Nov 2024 18:02:08 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "These top 10 Crompton geysers are among the best water heaters you can buy this winter season for hot water",
+        "link": "https://www.livemint.com/technology/gadgets/these-top-10-crompton-geysers-are-among-the-best-water-heaters-you-can-buy-this-winter-season-for-hot-water-11731492277260.html",
+        "description": "Best geysers are known for their durability, energy efficiency, and advanced safety features. This guide highlights the top 10 Crompton geysers, offering reliable, affordable solutions for all your hot water needs.",
+        "published": "Wed, 13 Nov 2024 17:57:11 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Best office chairs and study desks to transform your workspace for comfort, style, and efficiency",
+        "link": "https://www.livemint.com/technology/gadgets/best-office-chairs-and-study-desks-to-transform-your-workspace-for-comfort-style-and-efficiency-11731482616180.html",
+        "description": "Check out the best office chairs and study desks to elevate your workspace with comfort, style, and efficiency. Perfect for home offices, these ergonomic options blend functionality and aesthetics, enhancing productivity. Find top choices for office chair and study desk setups.",
+        "published": "Wed, 13 Nov 2024 16:19:43 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.033308",
+        "source": "Mint"
+    },
+    {
+        "title": "Why the world needs guardrails around capitalism and not AI",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/why-the-world-needs-guardrails-around-capitalism-and-not-ai/primearticleshow/115353000.cms",
+        "description": "The problem is not with technologies, but with economic systems and policies.",
+        "published": "Sat, 16 Nov 2024 11:12:41 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.911426",
+        "source": "Economic Times"
+    },
+    {
+        "title": "Trump’s return is worrying Indian IT firms. And it’s not about immigration.",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/trumps-return-is-worrying-indian-it-firms-and-its-not-about-immigration-/primearticleshow/115302543.cms",
+        "description": "While IT shares rose initially on the hopes that US President-elect Donald Trump’s corporate tax cuts would lead to more IT spending, companies are concerned about the impact of his policies on budgets for the next year. ET Prime spoke to IT executives and analysts to understand what they expect.",
+        "published": "Fri, 15 Nov 2024 05:55:00 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.912725",
+        "source": "Economic Times"
+    },
+    {
+        "title": "Big fleet owners say aye, as AI makes inroads into logistics",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/big-fleet-owners-say-aye-as-ai-makes-inroads-into-logistics/primearticleshow/115253745.cms",
+        "description": "For fleet owners, factors like fuel efficiency, the uptime of the vehicle and how the driver is treating it have a significant impact on the bottom line. Over the last few years, AI-powered solutions have emerged as a powerful tool for truck maintenance making logistics reliable. But why is mass adoption still some distance away?",
+        "published": "Thu, 14 Nov 2024 05:55:00 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.912725",
+        "source": "Economic Times"
+    },
+    {
+        "title": "4 things to watch out for, as Bitcoin rallies to USD89,000 after Trump’s win",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/4-things-to-watch-out-for-as-bitcoin-rallies-to-usd89000-after-trumps-win/primearticleshow/115213487.cms",
+        "description": "Bitcoin is expected to reach USD100,000 by year-end, aided by the prospect of a pro-crypto president in the US. With crypto on an upward trend, what can we expect from the sector and the Indian market?",
+        "published": "Tue, 12 Nov 2024 15:26:12 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.912725",
+        "source": "Economic Times"
+    },
+    {
+        "title": "The unflashy founder who has to take Swiggy to IPO and the battle to Zomato",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/the-unflashy-founder-who-has-to-take-swiggy-to-ipo-and-the-battle-to-zomato/primearticleshow/115151828.cms",
+        "description": "Sriharsha Majety, Swiggy’s equanimous CEO, can endure the loss of market leadership position. However, staying comparable to Zomato, which has delivered profits and growth, is critical to him.",
+        "published": "Mon, 11 Nov 2024 05:55:00 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.912725",
+        "source": "Economic Times"
+    },
+    {
+        "title": "The market is betting on a successful Tech Mahindra turnaround. Will CEO Joshi deliver?",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/the-market-is-betting-on-a-successful-tech-mahindra-turnaround-will-ceo-joshi-deliver/primearticleshow/115078015.cms",
+        "description": "Mohit Joshi became the CEO of Tech Mahindra in June 2023, fully aware of the company’s challenges. However, he was quickly confronted with more severe issues than expected. Despite a tough start, Joshi’s strategic efforts are beginning to show positive results. ET Prime takes a closer look at his journey on the path to TechM’s turnaround.",
+        "published": "Fri, 08 Nov 2024 13:52:55 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.912725",
+        "source": "Economic Times"
+    },
+    {
+        "title": "AI is writing more codes than ever. Is this the end of coders as we know them?",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/ai-is-writing-more-codes-than-ever-is-this-the-end-of-coders-as-we-know-them/primearticleshow/114939839.cms",
+        "description": "The implications of AI in software development are vast, reigniting the age-old debate about whether AI will replace software engineers.",
+        "published": "Mon, 04 Nov 2024 14:21:15 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.912725",
+        "source": "Economic Times"
+    },
+    {
+        "title": "The search for the next Flipkart took this VC to small town India",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/the-search-for-the-next-flipkart-took-this-vc-to-small-town-india/primearticleshow/114918246.cms",
+        "description": "India’s top VC firm Accel, which has two dozen unicorns in its portfolio, is searching for the next set of outliers at the intersection of the consumption story and digital shift in India’s villages and small towns, the Bharat.",
+        "published": "Mon, 04 Nov 2024 05:55:00 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.912725",
+        "source": "Economic Times"
+    },
+    {
+        "title": "This L&amp;T firm eyes USD2 billion revenues by FYXX (Quiz: Is the missing year a typo?)",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/this-lt-firm-eyes-usd2-billion-revenues-by-fyxx-quiz-is-the-missing-year-a-typo/primearticleshow/114702970.cms",
+        "description": "LTTS has a lofty growth target but keeps it unambiguously vague.",
+        "published": "Tue, 29 Oct 2024 05:55:00 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.912725",
+        "source": "Economic Times"
+    },
+    {
+        "title": "Three years after failing with metaverse, Mark Zuckerberg finally finds success",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/three-years-after-failing-with-metaverse-mark-zuckerberg-finally-finds-success/primearticleshow/114576453.cms",
+        "description": "Meta’s big bet on the metaverse did not take off as expected despite rebranding. What the metaverse could not achieve, Zuckerberg has now found in Llama, the company’s open-source AI model.",
+        "published": "Fri, 25 Oct 2024 13:11:27 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.912725",
+        "source": "Economic Times"
+    },
+    {
+        "title": "What explains the 90% plunge in Elon Musk’s India X revenue?",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/what-explains-the-90-plunge-in-elon-musks-india-x-revenue/primearticleshow/114571206.cms",
+        "description": "When India’s digital economy is booming, Elon Musk’s X – Twitter- is struggling.",
+        "published": "Fri, 25 Oct 2024 11:16:46 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.912725",
+        "source": "Economic Times"
+    },
+    {
+        "title": "How Elon Musk’s space-age PR will shape the rules of the game in India",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/how-elon-musks-space-age-pr-will-shape-the-rules-of-the-game-in-india/primearticleshow/114538369.cms",
+        "description": "Elon Musk’s entry into India, particularly with his satellite broadband service Starlink, signals a potential shift in how corporate perception is shaped in the country. Will Indian companies be able to keep up with Musk’s unconventional approach?",
+        "published": "Thu, 24 Oct 2024 14:28:29 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.912725",
+        "source": "Economic Times"
+    },
+    {
+        "title": "Boeing-made satellite breaks up, triggers space debris concerns",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/boeing-made-satellite-breaks-up-triggers-space-debris-concerns/primearticleshow/114499736.cms",
+        "description": "The impact of the space debris floating around in space currently is being analysed.",
+        "published": "Wed, 23 Oct 2024 14:07:07 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.912725",
+        "source": "Economic Times"
+    },
+    {
+        "title": "The Achilles’ heel slowing Infosys, and Salil Parekh’s turnaround drive",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/the-achilles-heel-slowing-infosys-and-salil-parekhs-turnaround-drive/primearticleshow/114477958.cms",
+        "description": "Six-and-a-half years on, Parekh’s tenure is widely considered a success. But there's one critical metric that has still not worked out in his favour.",
+        "published": "Wed, 23 Oct 2024 05:00:00 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.912725",
+        "source": "Economic Times"
+    },
+    {
+        "title": "Employee exits, legal woes: Inside WazirX’s not-so-smooth journey to users’ refunds",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/employee-exits-legal-woes-inside-wazirxs-not-so-smooth-journey-to-users-refunds/primearticleshow/114343530.cms",
+        "description": "With a roller coaster of leadership changes and looming operational and legal challenges, WazirX’s journey is anything but smooth. Here are the key details you need to know.",
+        "published": "Fri, 18 Oct 2024 13:28:30 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.912725",
+        "source": "Economic Times"
+    },
+    {
+        "title": "More nays than ayes: The hidden truth about Indian VCs GenAI investments",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/more-nays-than-ayes-the-hidden-truth-about-indian-vcs-genai-investments/primearticleshow/114261489.cms",
+        "description": "The number of GenAI startups that are founded has dropped from 77 in 2023 to 14 till July 2024. From 2023 till July 2024, only six startups have been able to get significant investments of over USD10 million. Are Indian VCs not betting on GenAI the way their western peers are?",
+        "published": "Wed, 16 Oct 2024 06:56:03 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.912725",
+        "source": "Economic Times"
+    },
+    {
+        "title": "The next AI attack on jobs is coming. A USD300 billion market is under threat.",
+        "link": "https://economictimes.indiatimes.com/prime/technology-and-startups/the-next-ai-attack-on-jobs-is-coming-a-usd300-billion-market-is-under-threat-/primearticleshow/114069436.cms",
+        "description": "As the landscape of artificial intelligence evolves, a new contender emerges – Agentic AI. Analysts warn the technology could threaten jobs more significantly than GenAI. Here’s what you need to know about the key differences between the two.",
+        "published": "Wed, 09 Oct 2024 12:28:03 +0530",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:32.912725",
+        "source": "Economic Times"
+    },
+    {
+        "title": "‘Do not pet’: Why are robot dogs patrolling Mar-A-Lago?",
+        "link": "https://www.bbc.com/news/articles/c30p16gn3pvo",
+        "description": "Robotic dogs are helping law enforcement protect President-elect Donald Trump at his Florida residence.",
+        "published": "Sun, 17 Nov 2024 07:50:08 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "'Record breaking' 60m homes watched Tyson vs Paul fight, Netflix says",
+        "link": "https://www.bbc.com/news/articles/c8xpyg2lr28o",
+        "description": "But the streaming giant's first foray into live boxing was beset with technical glitches.",
+        "published": "Sun, 17 Nov 2024 09:43:53 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Elon Musk adds Microsoft to lawsuit against ChatGPT-maker OpenAI",
+        "link": "https://www.bbc.com/news/articles/c93716xdgzqo",
+        "description": "Mr Musk, a co-founder of the company, is accusing it and the tech giant of operating a monopoly.",
+        "published": "Fri, 15 Nov 2024 17:16:37 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "‘Do not pet’: Why are robot dogs patrolling Mar-A-Lago?",
+        "link": "https://www.bbc.com/news/articles/c30p16gn3pvo",
+        "description": "Robotic dogs are helping law enforcement protect President-elect Donald Trump at his Florida residence.",
+        "published": "Sun, 17 Nov 2024 07:50:08 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "X users jump to Bluesky - but what is it and who owns it?",
+        "link": "https://www.bbc.com/news/articles/c8dm0ljg4y6o",
+        "description": "Bluesky is picking up one million new users every day at its current rate.",
+        "published": "Fri, 15 Nov 2024 16:37:35 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "US hacker sentenced over Bitcoin heist worth billions",
+        "link": "https://www.bbc.com/news/articles/c2dl70wed1lo",
+        "description": "Ilya Lichtenstein laundered the stolen cryptocurrency with his wife Heather Morgan aka Razzlekhan.",
+        "published": "Fri, 15 Nov 2024 04:26:25 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "'Amazing showcase' for UK gaming industry cancelled",
+        "link": "https://www.bbc.com/news/articles/c5yxvxzp909o",
+        "description": "The organisers blamed \"increasing costs and less demand\" as the sector continues to struggle.",
+        "published": "Fri, 15 Nov 2024 00:03:58 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Meta fined €798m over 'unfair' Facebook Marketplace",
+        "link": "https://www.bbc.com/news/articles/cx2ypyr4742o",
+        "description": "The European Union says the tech giant crowded out rivals, breaching competition law.",
+        "published": "Thu, 14 Nov 2024 15:03:43 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Outage hits Bluesky just as the platform's popularity takes off",
+        "link": "https://www.bbc.com/news/articles/c04l15lndrpo",
+        "description": "The platform said on Thursday evening that one million people had joined it over the previous day.",
+        "published": "Thu, 14 Nov 2024 22:06:00 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Amazon launches Temu and Shein rival with 'crazy low' prices",
+        "link": "https://www.bbc.com/news/articles/clyv0yp130go",
+        "description": "The price of products on Haul, which is being trialled in the US, will be capped at $20.",
+        "published": "Thu, 14 Nov 2024 14:19:59 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "The Guardian stops posting on Elon Musk's 'toxic' X",
+        "link": "https://www.bbc.com/news/articles/cvg48m5j4zjo",
+        "description": "It has accused X of promoting \"disturbing content\", and says Mr Musk is using it to \"shape political discourse.\"",
+        "published": "Wed, 13 Nov 2024 14:06:48 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Apple accused of trapping and ripping off 40m iCloud customers",
+        "link": "https://www.bbc.com/news/articles/c20g50ny53eo",
+        "description": "Which? is seeking a £3bn payout for UK users as a result of the legal action it is launching.",
+        "published": "Thu, 14 Nov 2024 00:08:40 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "VW launches $5.8bn tie-up with Tesla rival Rivian",
+        "link": "https://www.bbc.com/news/articles/c5yr90lmjpno",
+        "description": "The firms will share EV technology as they face slowing sales growth and competition from Chinese rivals.",
+        "published": "Wed, 13 Nov 2024 04:29:44 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Seven wild moments from the turbulent story of Bitcoin",
+        "link": "https://www.bbc.com/news/articles/cqj0wkwv1x2o",
+        "description": "Its record price is making headlines - but that's just one part of the cryptocurrency's tumultuous story.",
+        "published": "Tue, 12 Nov 2024 11:05:15 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "DNA-testing site 23andMe to lay off 40% of its workers",
+        "link": "https://www.bbc.com/news/articles/cp9z7m2nljyo",
+        "description": "The once-popular general DNA-testing firm holds a trove of sensitive genetic data from its customers.",
+        "published": "Tue, 12 Nov 2024 19:42:26 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "NatWest blocks staff from using WhatsApp and Facebook Messenger",
+        "link": "https://www.bbc.com/news/articles/cvgl72lrd50o",
+        "description": "Employees must stick to official channels to make sure their messages are fully retrievable.",
+        "published": "Tue, 12 Nov 2024 13:47:59 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "'I was moderating hundreds of horrific and traumatising videos'",
+        "link": "https://www.bbc.com/news/articles/crr9q2jz7y0o",
+        "description": "The BBC speaks to social media moderators, whose job it is to find and remove distressing and illegal content.",
+        "published": "Mon, 11 Nov 2024 00:40:14 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Australia plans social media ban for under-16s",
+        "link": "https://www.bbc.com/news/articles/c4gzd62g1r3o",
+        "description": "The government says it wants to mitigate the \"harm\" social media is inflicting on children.",
+        "published": "Thu, 07 Nov 2024 00:59:31 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Bitcoin tops record $80,000 as Trump nears sweep of US Congress",
+        "link": "https://www.bbc.com/news/articles/c89v1w5lxxqo",
+        "description": "On the campaign trail the president-elect pledged to make America \"the crypto capital of the planet\".",
+        "published": "Mon, 11 Nov 2024 03:11:07 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Zuckerberg records 'romantic' cover of explicit rap hit",
+        "link": "https://www.bbc.com/news/articles/ckgrv2d39jlo",
+        "description": "The Facebook founder collaborates with T-Pain on a cove of Lil Jon's 2002 filthy floor-filler Get Low.",
+        "published": "Thu, 14 Nov 2024 11:22:04 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Vodafone-Three merger could get green light, watchdog says",
+        "link": "https://www.bbc.com/news/articles/ckgznpx44q3o",
+        "description": "It wants commitments on prices and 5G if the creation of the UK's biggest mobile network is to go ahead.",
+        "published": "Tue, 05 Nov 2024 10:11:17 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Hunt for Bitcoin's elusive creator Satoshi Nakamoto hits another dead-end",
+        "link": "https://www.bbc.com/news/articles/c079zp2vy31o",
+        "description": "Why are still no closer to unmasking the mysterious Satoshi Nakamoto?",
+        "published": "Sun, 03 Nov 2024 00:51:07 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Law firm finds grooming claims against MrBeast co-host baseless",
+        "link": "https://www.bbc.com/news/articles/czxrn5k22p4o",
+        "description": "The YouTuber hired the firm to look into claims that a co-host had sent inappropriate messages to a minor.",
+        "published": "Sat, 02 Nov 2024 02:07:23 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "The environmental campaigners fighting against data centres",
+        "link": "https://www.bbc.com/news/articles/cz0mlrx0jxno",
+        "description": "A growing global movement is seeing people object to data centres in their locality.",
+        "published": "Mon, 04 Nov 2024 00:01:32 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Snapchat most-used app for grooming, says NSPCC",
+        "link": "https://www.bbc.com/news/articles/cze3p1j710ko",
+        "description": "The children's charity says the police data shows people are \"still waiting\" for social media to be made safe,",
+        "published": "Fri, 01 Nov 2024 01:00:12 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "DNA-testing site 23andMe fights for survival",
+        "link": "https://www.bbc.com/news/articles/c4gm08nlxr3o",
+        "description": "Once millions used it to find out about their family histories - this week it was almost delisted. What went wrong?",
+        "published": "Sun, 03 Nov 2024 01:19:58 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Russia fines Google more money than there is in entire world",
+        "link": "https://www.bbc.com/news/articles/cdxvnwkl5kgo",
+        "description": "The mind-boggling figure has been levied due to the company restricting Russian state media on YouTube.",
+        "published": "Thu, 31 Oct 2024 12:24:25 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "'Sickening' Molly Russell chatbots found on Character.ai",
+        "link": "https://www.bbc.com/news/articles/cg57yd0jr0go",
+        "description": "The foundation set up in her memory said it would cause \"further heartache to everyone who knew and loved Molly\".",
+        "published": "Wed, 30 Oct 2024 15:35:51 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "How X users can earn thousands from US election misinformation and AI images",
+        "link": "https://www.bbc.com/news/articles/cx2dpj485nno",
+        "description": "The accounts are part of pro-Trump and pro-Harris networks sharing each other’s content multiple times a day.",
+        "published": "Tue, 29 Oct 2024 23:42:50 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Apple's AI features roll out on iPhones - but not for all",
+        "link": "https://www.bbc.com/news/articles/cwy9xj301wmo",
+        "description": "The new features include notification summaries and tools to assist users in writing messages.",
+        "published": "Tue, 29 Oct 2024 09:29:07 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "'I can't run a business like this': Why the WordPress row matters",
+        "link": "https://www.bbc.com/news/articles/cm2y7eyp3zpo",
+        "description": "WordPress's tools are used by 40% of the world's websites, making this a spat with big consequences.",
+        "published": "Fri, 25 Oct 2024 21:55:34 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Instagram lowering quality of less viewed videos 'alarming' creators",
+        "link": "https://www.bbc.com/news/articles/cp8xnm7z71go",
+        "description": "The revelation has sparked concern among some creators it may impact their reach on the platform.",
+        "published": "Tue, 29 Oct 2024 11:57:42 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "China's BYD overtakes Tesla revenue for first time",
+        "link": "https://www.bbc.com/news/articles/c4gm9j11mvdo",
+        "description": "The electric vehicle giant saw its revenues jump 24% as government subsidies boost China's car industry.",
+        "published": "Thu, 31 Oct 2024 04:21:38 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Europe's flying taxi dreams falter as cash runs short",
+        "link": "https://www.bbc.com/news/articles/c33em6jrx1go",
+        "description": "Makers of a new generation of European electric aircraft are struggling to raise money.",
+        "published": "Fri, 15 Nov 2024 00:01:23 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Tech Life: The dangerous job of online moderating",
+        "link": "https://www.bbc.co.uk/sounds/play/w3ct5wn3",
+        "description": "We hear from a former moderator in Kenya who was left traumatised by his previous job.",
+        "published": "Tue, 12 Nov 2024 20:30:00 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Meet the AI robot whose artwork sold for over $1m",
+        "link": "https://www.bbc.com/news/videos/cn4vwq0v9v5o",
+        "description": "A portrait of mathematician Alan Turing is thought to be the first artwork by a humanoid robot to be sold at auction.",
+        "published": "Sat, 09 Nov 2024 19:29:34 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Tech Life: Is this show fake?",
+        "link": "https://www.bbc.co.uk/sounds/play/w3ct5wn2",
+        "description": "Tech Life creates a fake podcast using an AI tool from Google. Plus, political deepfakes.",
+        "published": "Tue, 05 Nov 2024 20:30:00 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Gamer role introduced in children's hospital",
+        "link": "https://www.bbc.com/news/videos/cq6lll7r322o",
+        "description": "Steven Mair is the Glasgow Children's Hospital Charity's new gamer in residence",
+        "published": "Sun, 27 Oct 2024 08:07:42 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Tech Life: The fall of a global chip maker",
+        "link": "https://www.bbc.co.uk/sounds/play/w3ct5wn1",
+        "description": "Intel was once unrivalled as the world's chip maker. Now it's fallen behind its rivals.",
+        "published": "Tue, 29 Oct 2024 20:30:00 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Musk promises self-driving Tesla taxis, but are they safe?",
+        "link": "https://www.bbc.com/news/videos/c20p2gp4npeo",
+        "description": "BBC Tech Correspondent Lily Jamali analyses the 'robocabs' and if their technology is up to par.",
+        "published": "Sat, 12 Oct 2024 00:46:14 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Watch: Why is the latest SpaceX rocket test a big deal?",
+        "link": "https://www.bbc.com/news/videos/ce3zek7xqk4o",
+        "description": "The BBC's Pallab Ghosh explores why this world first test is a big deal for space exploration.",
+        "published": "Sun, 13 Oct 2024 20:26:14 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "An energy efficient home - why is it so difficult?",
+        "link": "https://www.bbc.com/news/articles/cqxwjwqw3xdo",
+        "description": "It can be hard to find good advice on how to make homes more energy efficient.",
+        "published": "Tue, 12 Nov 2024 00:00:04 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Up close with the 300 tonne driverless trucks",
+        "link": "https://www.bbc.com/news/articles/cgej7gzg8l0o",
+        "description": "Big mining firms are switching to driverless trucks and other autonomous equipment.",
+        "published": "Fri, 08 Nov 2024 00:03:51 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Why colouring clothes has a big environmental impact",
+        "link": "https://www.bbc.com/news/articles/c870j92p82wo",
+        "description": "Start-up firms are looking for ways to dye clothes using less water and heat.",
+        "published": "Tue, 05 Nov 2024 00:07:22 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "The house paints that promise much more than colour",
+        "link": "https://www.bbc.com/news/articles/ce817156p34o",
+        "description": "Paints now promise to make your house cooler, warmer, or simply peel off.",
+        "published": "Fri, 01 Nov 2024 00:02:29 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "The green software that could make big carbon savings",
+        "link": "https://www.bbc.com/news/articles/c8j7md2kj8vo",
+        "description": "Greener software could make devices last longer and use less electricity.",
+        "published": "Thu, 24 Oct 2024 23:07:47 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Will AI make work burnout worse?",
+        "link": "https://www.bbc.com/news/articles/c93pz1dz2kxo",
+        "description": "As more AI tools are rolled out, some argue they are contributing to employee burnout.",
+        "published": "Tue, 22 Oct 2024 23:09:53 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "'It's our moonshot': Why scientists are drilling into volcanos",
+        "link": "https://www.bbc.com/news/articles/c1e8q4j1yygo",
+        "description": "In Iceland scientists plan to drill down to magma to understand it and use it for energy production.",
+        "published": "Thu, 17 Oct 2024 23:03:48 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Why there's a rush of African satellite launches",
+        "link": "https://www.bbc.com/news/articles/c4gvnym0j0xo",
+        "description": "Falling launch costs have given African nations a chance to send their own satellites into orbit.",
+        "published": "Mon, 14 Oct 2024 23:01:17 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "From Wimbledon to VAR, is tech hurting the drama of sport?",
+        "link": "https://www.bbc.com/news/articles/c9dy4434nj3o",
+        "description": "As Wimbledon scraps human line judges, sport insiders suggest how we can make games more exciting.",
+        "published": "Sun, 13 Oct 2024 00:02:58 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Meet the team paid to break into top-secret bases",
+        "link": "https://www.bbc.com/news/articles/c8el64yyppro",
+        "description": "Hear from the team who test security by breaking into secure facilities.",
+        "published": "Thu, 10 Oct 2024 23:01:21 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Could you switch careers into cyber-security?",
+        "link": "https://www.bbc.com/news/articles/c1m0ylerjevo",
+        "description": "From ex-policemen to former physicists, cyber-security firms search outside the industry for staff.",
+        "published": "Mon, 07 Oct 2024 23:08:02 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:34.884679",
+        "source": "BBC"
+    },
+    {
+        "title": "Election Reveals Right-Wing Shift of Social Media Platforms",
+        "link": "https://www.nytimes.com/2024/11/17/technology/election-right-wing-social-media.html",
+        "description": "If the election underscored anything about the internet, it was the ascendancy of social platforms for the right. That puts Democrats at a disadvantage.",
+        "published": "Sun, 17 Nov 2024 10:01:56 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "How Bluesky, Alternative to X and Facebook, Is Handling Growth",
+        "link": "https://www.nytimes.com/2024/11/17/technology/bluesky-growing-pains.html",
+        "description": "The fledgling social media site has been flooded with new users since the election. It hasn’t all been easy.",
+        "published": "Sun, 17 Nov 2024 19:18:33 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "How Elon Musk Cuts Costs at Tesla, SpaceX and X",
+        "link": "https://www.nytimes.com/2024/11/16/technology/elon-musk-cost-cuts.html",
+        "description": "Mr. Musk dug into his companies’ budgets, preferring to cut too much rather than too little and to deal with the fallout later. Under Donald Trump, he is set to apply those tactics to the U.S. government.",
+        "published": "Sat, 16 Nov 2024 21:56:05 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "Are A.I. Clones the Future of Dating? I Tried Them for Myself.",
+        "link": "https://www.nytimes.com/2024/11/14/technology/ai-dating-apps.html",
+        "description": "A New York Times reporter tested a handful of chatbots to see if they could help improve his dating life. The results were decidedly mixed.",
+        "published": "Thu, 14 Nov 2024 22:22:20 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "Trump Picks Brendan Carr to Lead F.C.C.",
+        "link": "https://www.nytimes.com/2024/11/17/technology/fcc-nominee-brendan-carr-trump.html",
+        "description": "Mr. Carr, who currently sits on the commission and is a vocal critic of Big Tech, has said the agency should regulate the tech industry.",
+        "published": "Mon, 18 Nov 2024 01:24:27 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "ChatGPT Defeated Doctors at Diagnosing Illness",
+        "link": "https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html",
+        "description": "A small study found ChatGPT outdid human physicians when assessing medical case histories, even when those doctors were using a chatbot.",
+        "published": "Sun, 17 Nov 2024 10:01:01 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "Thomas E. Kurtz, co-creator of BASIC programming language, dies at 96",
+        "link": "https://www.nytimes.com/2024/11/16/technology/thomas-kurtz-dead.html",
+        "description": "At Dartmouth, long before the days of laptops and smartphones, he worked to give more students access to computers. That work helped propel generations into a new world.",
+        "published": "Sun, 17 Nov 2024 06:29:49 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "Netflix Livestream Outages Reported During Mike Tyson-Jake Paul Fight",
+        "link": "https://www.nytimes.com/2024/11/16/business/media/netflix-outage-crash-boxing.html",
+        "description": "Users across the U.S. reported being unable to load the high-profile boxing match.",
+        "published": "Sat, 16 Nov 2024 19:15:30 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "Crypto Congress + HBD ChatGPT + What Social Media Platform Should I Be On?",
+        "link": "https://www.nytimes.com/2024/11/15/podcasts/crypto-congress-hbd-chatgpt-what-social-media-platform-should-i-be-on.html",
+        "description": "Cryptocurrency is poised to have a huge year in 2025.",
+        "published": "Fri, 15 Nov 2024 13:51:31 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "Elon Musk Adds Microsoft to Suit Against OpenAI",
+        "link": "https://www.nytimes.com/2024/11/15/technology/elon-musk-microsoft-openai.html",
+        "description": "In a new legal filing, the Tesla chief executive accuses the A.I. start-up of undermining antitrust law.",
+        "published": "Fri, 15 Nov 2024 14:12:00 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "Techies Push Other Techies to Musk to Join Trump Administration",
+        "link": "https://www.nytimes.com/2024/11/14/technology/trump-elon-musk-silicon-valley.html",
+        "description": "Tech leaders are recommending their own brethren to Mr. Musk and others, as they aim to leave a Silicon Valley imprint on Donald Trump’s new administration.",
+        "published": "Fri, 15 Nov 2024 01:05:46 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "Meta Fined $840 Million in Europe for Boosting Marketplace Unfairly",
+        "link": "https://www.nytimes.com/2024/11/14/business/meta-european-union-facebook-marketplace-fine.html",
+        "description": "Meta said it would appeal the decision by the European Union, which said the company had abused its dominance in social networking to strengthen its shopping and classified ads service.",
+        "published": "Thu, 14 Nov 2024 18:52:57 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "F.B.I. Searches Home of Shayne Coplan, Polymarket Founder",
+        "link": "https://www.nytimes.com/2024/11/13/technology/polymarket-shayne-coplan-fbi-search.html",
+        "description": "The search involving Shayne Coplan, the founder of Polymarket, known for its presidential election odds, was part of a criminal investigation, three people said.",
+        "published": "Fri, 15 Nov 2024 02:10:09 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "How Crypto Enthusiasts Hijacked a Dog Mayor Competition",
+        "link": "https://www.nytimes.com/2024/11/13/nyregion/new-york-mayor-voting-dog.html",
+        "description": "Did a fun event involving cute dogs turn into a pump-and-dump scheme?",
+        "published": "Thu, 14 Nov 2024 14:41:55 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "Crypto Industry Lobbies Trump and His Allies After Election Wins",
+        "link": "https://www.nytimes.com/2024/11/13/technology/trump-crypto-bitcoin.html",
+        "description": "As Bitcoin soars to record highs, cryptocurrency executives are maneuvering to influence Donald J. Trump’s transition and secure their policy goals.",
+        "published": "Wed, 13 Nov 2024 10:02:42 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "Stand-Up, Drama and Spambots: The Creative World Takes On A.I.",
+        "link": "https://www.nytimes.com/2024/11/13/technology/ai-comedy-museums-plays.html",
+        "description": "Artificial intelligence has become a subject for people in the art and theater worlds who are worried about being replaced by it.",
+        "published": "Wed, 13 Nov 2024 10:00:52 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "Can Trump Prevent a TikTok Ban? His Team Says ‘He Will Deliver’",
+        "link": "https://www.nytimes.com/2024/11/12/technology/trump-tiktok-ban.html",
+        "description": "When asked about whether President-elect Donald Trump would prevent a TikTok ban in the United States, a spokeswoman told The New York Times: “He will deliver.”",
+        "published": "Tue, 12 Nov 2024 22:54:45 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "Volkswagen and Rivian Form Joint Venture, Deepening Alliance",
+        "link": "https://www.nytimes.com/2024/11/12/business/volkswagen-rivian-electric-vehicles.html",
+        "description": "The new agreement, which builds on an earlier announcement, calls for the German automaker to invest $5.8 billion in Rivian, a maker of electric vehicles.",
+        "published": "Tue, 12 Nov 2024 23:05:00 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "‘Maybe Happy Ending’ Review: Darren Criss and Helen J Shen Are Robots in Love",
+        "link": "https://www.nytimes.com/2024/11/12/theater/maybe-happy-ending-review-darren-criss.html",
+        "description": "A supersmart musical about making a connection arrives on Broadway in a joyful, heartbreaking, cutting-edge production.",
+        "published": "Wed, 13 Nov 2024 00:25:45 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.350902",
+        "source": "The New York Times"
+    },
+    {
+        "title": "When the World Feels Messy, I Turn to PowerWash Simulator",
+        "link": "https://www.nytimes.com/2024/11/12/magazine/power-wash-simulator.html",
+        "description": "A low-stress video game that’s cleansing in more than one sense.",
+        "published": "Tue, 12 Nov 2024 17:40:33 +0000",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:35.351963",
+        "source": "The New York Times"
+    },
+    {
+        "title": "European tech CEOs urge 'Europe-first' mentality to counter U.S. dominance after Trump victory",
+        "link": "https://www.cnbc.com/2024/11/18/european-tech-ceos-urge-europe-first-mentality-after-trump-victory.html",
+        "description": "Tech CEOs in Europe are urging the region to take bolder actions to tackle Big Tech's dominance and counter reliance on the U.S. after Donald Trump's presidential election win.",
+        "published": "Mon, 18 Nov 2024 06:56:32 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "European SpaceX rival raises $160 million for reusable capsule to carry astronauts, cargo to space",
+        "link": "https://www.cnbc.com/2024/11/17/the-exploration-company-european-spacex-rival-raises-160-million-for-reusable-sapce-capsule.html",
+        "description": "The Exploration Company announced Monday it has raised $160 million to fuel development of its capsule that is designed to take astronauts and cargo to space stations.",
+        "published": "Sun, 17 Nov 2024 18:00:01 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Palantir jumps 11% to a record after announcing move to Nasdaq",
+        "link": "https://www.cnbc.com/2024/11/15/palantir-jumps-9percent-to-a-record-after-announcing-move-to-nasdaq.html",
+        "description": "Palantir's stock has been on a tear since the company's better-than-expected earnings report last week, which was a day before the U.S. presidential election.",
+        "published": "Fri, 15 Nov 2024 22:29:15 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Super Micro faces deadline to keep Nasdaq listing after 85% plunge in stock",
+        "link": "https://www.cnbc.com/2024/11/15/super-micro-faces-deadline-to-keep-nasdaq-listing-after-85percent-plunge-.html",
+        "description": "Super Micro could also get a reprieve and an extension from the Nasdaq, giving it months to come into compliance.",
+        "published": "Fri, 15 Nov 2024 20:12:45 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Elon Musk's xAI raising up to $6 billion to purchase 100,000 Nvidia chips for Memphis data center",
+        "link": "https://www.cnbc.com/2024/11/15/elon-musks-xai-raising-up-to-6-billion-to-purchase-100000-nvidia-chips-for-memphis-data-center.html",
+        "description": "Elon Musk's artificial intelligence company xAI is raising up to $6 billion at a $50 billion valuation, according to CNBC's David Faber.",
+        "published": "Fri, 15 Nov 2024 16:52:50 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Alibaba posts profit beat as China looks to prop up tepid consumer spend",
+        "link": "https://www.cnbc.com/2024/11/15/alibaba-baba-q2.html",
+        "description": "The results come at a tricky time for Chinese commerce businesses, given the broad sluggishness in the world's second-largest economy.",
+        "published": "Fri, 15 Nov 2024 14:59:30 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Amazon was questioned by House China committee over 'dangerous and unwise' TikTok partnership",
+        "link": "https://www.cnbc.com/2024/11/14/amazon-questioned-by-house-committee-over-dangerous-tiktok-deal.html",
+        "description": "Amazon's partnership allows TikTok users to purchase products from the shopping site without leaving the Chinese-owned social media app.",
+        "published": "Thu, 14 Nov 2024 22:45:30 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Amazon launches fixed pricing for treatment of conditions such as hair loss. Hims & Hers stock drops 24%",
+        "link": "https://www.cnbc.com/2024/11/14/amazon-launches-fixed-pricing-to-treat-hair-loss-erectile-dysfunction.html",
+        "description": "Amazon announced Prime members can access new upfront pricing for treatment of five common conditions such as erectile disfunction and men's hair loss.",
+        "published": "Thu, 14 Nov 2024 21:01:34 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "WikiLeaks whistleblower Chelsea Manning says censorship is still 'a dominant threat'",
+        "link": "https://www.cnbc.com/2024/11/14/wikileaks-whistleblower-chelsea-manning-says-censorship-is-still-a-dominant-threat.html",
+        "description": "Former U.S. Army intelligence analyst Chelsea Manning says censorship is still \"a dominant threat\".",
+        "published": "Thu, 14 Nov 2024 12:59:34 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "SoftBank-backed fintech Zopa aims to double profit this year as it eyes 2025 current account launch",
+        "link": "https://www.cnbc.com/2024/11/14/zopa-sees-profit-doubling-as-it-eyes-2025-current-account-launch.html",
+        "description": "British online bank Zopa is on track to double pre-tax profits and increase revenue by more a third in 2024, CEO Jaidev Janardana told CNBC.",
+        "published": "Thu, 14 Nov 2024 14:23:55 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "It's 'liquidity, stupid': VCs say tech investing is tough amid IPO lull and 'nuts' AI hype",
+        "link": "https://www.cnbc.com/2024/11/14/vcs-say-tech-investing-is-tough-amid-ipo-lull-and-nuts-ai-hype.html",
+        "description": "Venture capitalists at Web Summit say the hunt for liquidity is getting harder, despite \"nuts\" funding rounds for AI firms like OpenAI.",
+        "published": "Thu, 14 Nov 2024 11:12:47 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Smart ring leader Oura plans international push as CEO touts new features and thinking on hardware",
+        "link": "https://www.cnbc.com/2024/11/14/oura-plans-international-expansion-tests-nutrition-and-ai-features.html",
+        "description": "Oura CEO Tom Hale spoke to CNBC about the smart ring product category and the impact of Samsung's entrance into the space.",
+        "published": "Thu, 14 Nov 2024 07:55:47 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Tech giants are investing in 'sovereign AI' to help Europe cut its dependence on the U.S.",
+        "link": "https://www.cnbc.com/2024/11/14/tech-firms-invest-in-sovereign-ai-to-cut-europe-dependence-on-us-tech.html",
+        "description": "Tech giants are investing in the development of \"sovereign\" AI models in Europe to reduce the region's dependence on largely U.S.-controlled infrastructure.",
+        "published": "Thu, 14 Nov 2024 16:54:13 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "X rival Bluesky gains 1.25 million users following U.S. election",
+        "link": "https://www.cnbc.com/2024/11/13/x-rival-bluesky-gains-1point25-million-users-following-us-election.html",
+        "description": "Bluesky has gained over 1.25 million new users in the past week, indicating some social media users are changing their habits following the U.S. election.",
+        "published": "Thu, 14 Nov 2024 16:39:06 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Cisco reports fourth straight quarter of declining revenue",
+        "link": "https://www.cnbc.com/2024/11/13/cisco-csco-q1-earnings-report-2025.html",
+        "description": "Cisco reported better-than-expected results for the latest quarter but revenue continues to shrink.",
+        "published": "Wed, 13 Nov 2024 23:26:31 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Trump victory may provide TikTok a lifeline to remain in the U.S.",
+        "link": "https://www.cnbc.com/2024/11/13/trump-victory-may-provide-tiktok-a-lifeline-to-remain-in-the-us.html",
+        "description": "Donald Trump's election victory may provide a lifeline for TikTok, which faces a potential U.S. ban in January if not divested from parent company ByteDance.",
+        "published": "Wed, 13 Nov 2024 20:44:55 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Tesla initiates sixth Cybertruck recall in a year",
+        "link": "https://www.cnbc.com/2024/11/13/tesla-initiates-sixth-cybertruck-recall-in-a-year.html",
+        "description": "Tesla is voluntarily recalling 2,431 Cybertrucks to replace defective drive inverters, according to a filing with the National Highway Traffic Administration.",
+        "published": "Wed, 13 Nov 2024 20:55:38 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "AMD to lay off 4% of workforce, or about 1,000 employees",
+        "link": "https://www.cnbc.com/2024/11/13/amd-layoffs-company-to-4percent-of-workforce-or-about-1000-employees-.html",
+        "description": "At the end of last year, AMD had 26,000 employees, according to a U.S. Securities and Exchange Commission filing.",
+        "published": "Wed, 13 Nov 2024 18:57:48 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Amazon shuts down secret project to develop fertility tracker",
+        "link": "https://www.cnbc.com/2024/11/13/amazon-shuts-down-secret-project-to-develop-fertility-tracker.html",
+        "description": "The project, codenamed \"Encore,\" was part of Amazon's moonshot incubator Grand Challenge, which launched under founder Jeff Bezos.",
+        "published": "Wed, 13 Nov 2024 20:05:49 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "BlackRock expands its tokenized money market fund to Polygon and other blockchains",
+        "link": "https://www.cnbc.com/2024/11/13/blackrock-expands-tokenized-money-market-fund-to-polygon-other-blockchains.html",
+        "description": "BlackRock launched the USD Institutional Digital Liquidity Fund on Ethereum earlier this year.",
+        "published": "Wed, 13 Nov 2024 18:40:18 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Bitcoin briefly tops $93,000 for the first time as investors digest postelection gains, inflation data",
+        "link": "https://www.cnbc.com/2024/11/13/crypto-market-toda.html",
+        "description": "Bitcoin rose above $93,000 following slightly higher October inflation data Wednesday.",
+        "published": "Wed, 13 Nov 2024 22:49:17 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Buy now, pay later provider Klarna says it filed confidentially for U.S. IPO",
+        "link": "https://www.cnbc.com/2024/11/13/buy-now-pay-later-giant-klarna-files-for-us-ipo.html",
+        "description": "Klarna, which is known for its popular buy now, pay later business, has confidentially filed IPO documents with the U.S. SEC.",
+        "published": "Wed, 13 Nov 2024 22:15:08 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Amazon debuts discount store with everything under $20 to take on Temu and Shein",
+        "link": "https://www.cnbc.com/2024/11/13/amazon-haul-discount-storefront-debuts-to-take-on-temu-and-shein-.html",
+        "description": "Called \"Amazon Haul,\" the storefront is accessible through the company's mobile app, and it promises \"crazy low prices\" on a plethora of goods.",
+        "published": "Wed, 13 Nov 2024 16:09:11 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "OpenAI to present plans for U.S. AI strategy and an alliance to compete with China",
+        "link": "https://www.cnbc.com/2024/11/13/openai-to-present-plans-for-us-ai-strategy-and-an-alliance-to-compete-with-china.html",
+        "description": "OpenAI's official blueprint for U.S. AI infrastructure involves AI economic zones and government projects funded by private investors, according to a document.",
+        "published": "Wed, 13 Nov 2024 16:01:17 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Denmark launches landmark framework for using AI under EU rules — with Microsoft backing",
+        "link": "https://www.cnbc.com/2024/11/13/denmark-lays-out-eu-ai-act-compliance-blueprint-with-microsoft-backing.html",
+        "description": "Denmark unveiled a blueprint on how to use generative AI in the corporate world to help firms get into compliance with strict new regulation from the EU.",
+        "published": "Wed, 13 Nov 2024 11:28:47 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Tencent posts better-than-expected 47% profit surge as games, AI tools shine",
+        "link": "https://www.cnbc.com/2024/11/13/tencent-q3-2024-earnings.html",
+        "description": "Chinese gaming and social media giant Tencent on Wednesday reported profit above analysts' expectations, while revenue missed slightly.",
+        "published": "Wed, 13 Nov 2024 13:28:39 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "China is catching up with the West on tech, Microsoft president says",
+        "link": "https://www.cnbc.com/2024/11/13/china-is-catching-up-with-the-west-on-tech-microsoft-president-says.html",
+        "description": "According to Microsoft's web page about its presence in China, the company has operated there since 1992.",
+        "published": "Fri, 15 Nov 2024 05:53:19 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Japan is ramping up efforts to revive its once dominant chip industry",
+        "link": "https://www.cnbc.com/2024/11/13/japan-is-ramping-up-efforts-to-revive-its-once-dominant-chip-industry-.html",
+        "description": "Japan has announced its latest plan to boost the country's chip and AI industries as it works to regain its leading position in semiconductor technology.",
+        "published": "Thu, 14 Nov 2024 06:07:00 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Startup CEO says humans won't be needed for translation in 3 years as it launches AI app",
+        "link": "https://www.cnbc.com/2024/11/13/unbabel-launches-ai-translation-app-looks-for-fresh-funding.html",
+        "description": "Unbabel on Wednesday announced an artificial intelligence-powered translation service, adding another rival to a highly competitive space.",
+        "published": "Wed, 13 Nov 2024 06:57:00 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
+    },
+    {
+        "title": "Dogecoin spikes after Trump announces a Department of Government Efficiency — DOGE",
+        "link": "https://www.cnbc.com/2024/11/13/dogecoin-surges-20percent-after-trump-announces-a-department-of-government-efficiency-doge.html",
+        "description": "Dogecoin shot higher on Tuesday night after President-elect Donald Trump formally announced the creation of the Department of Government Efficiency.",
+        "published": "Wed, 13 Nov 2024 13:07:09 GMT",
+        "category": "Technology",
+        "scraped_at": "2024-11-18T13:16:36.395122",
+        "source": "CNBC"
     }
 ]
